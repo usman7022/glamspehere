@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "LiLash Serum: The Secret to Luscious Lashes You Can’t Ignore!",    "images": ["https://m.media-amazon.com/images/I/613NSqvO3OL._SL1481_.jpg"],
+  "twitter": {    "card": "summary",    "title": "LiLash Serum: The Secret to Luscious Lashes You Can’t Ignore!",    "image": "https://m.media-amazon.com/images/I/613NSqvO3OL._SL1481_.jpg",
     "description": "Unlock longer, fuller lashes with LiLash XL Serum! Safe for sensitive eyes and compatible with contacts and lash extensions. Vegan, cruelty-free, and effective!"
   }
 }

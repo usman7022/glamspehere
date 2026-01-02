@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Luxurious Locks: The KUNDAL Shampoo Set You Can’t Miss!",    "images": ["https://m.media-amazon.com/images/I/719RIvTNd1L._SL1500_.jpg"],
+  "twitter": {    "card": "summary",    "title": "Unlock Luxurious Locks: The KUNDAL Shampoo Set You Can’t Miss!",    "image": "https://m.media-amazon.com/images/I/719RIvTNd1L._SL1500_.jpg",
     "description": "Elevate your hair care routine with KUNDAL's Cherry Blossom Shampoo Set. Enjoy salon-quality moisture, long-lasting scent, and luxurious, healthy locks!"
   }
 }

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Travel Shampoo Set: Your Ultimate Solution for Effortless Hair Care on the Go!",    "images": ["https://m.media-amazon.com/images/I/71fl06hn7OL.jpg"],
+  "twitter": {    "card": "summary",    "title": "Travel Shampoo Set: Your Ultimate Solution for Effortless Hair Care on the Go!",    "image": "https://m.media-amazon.com/images/I/71fl06hn7OL.jpg",
     "description": "Travel light and care for your hair with ECO Amenities' 2-in-1 Green Tea shampoo and conditioner. Mini, eco-friendly, TSA-approved for on-the-go freshness!"
   }
 }

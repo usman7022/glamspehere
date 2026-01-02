@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Luxurious Locks: Kristin Ess Shampoo Review for Shiny Hair",    "images": ["https://m.media-amazon.com/images/I/610KlIy0BFL._SL1500_.jpg"],
+  "twitter": {    "card": "summary",    "title": "Unlock Luxurious Locks: Kristin Ess Shampoo Review for Shiny Hair",    "image": "https://m.media-amazon.com/images/I/610KlIy0BFL._SL1500_.jpg",
     "description": "Revitalize your hair with Kristin Ess Shampoo! Experience luscious, shiny locks while nourishing and repairing damage with a refreshing pear fragrance."
   }
 }

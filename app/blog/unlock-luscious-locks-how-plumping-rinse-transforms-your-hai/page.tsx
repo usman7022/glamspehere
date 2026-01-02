@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Luscious Locks: How Plumping Rinse Transforms Your Hair",    "images": ["https://m.media-amazon.com/images/I/61PjPqKmLHL.jpg"],
+  "twitter": {    "card": "summary",    "title": "Unlock Luscious Locks: How Plumping Rinse Transforms Your Hair",    "image": "https://m.media-amazon.com/images/I/61PjPqKmLHL.jpg",
     "description": "Revitalize fine, thinning hair with KEVIN.MURPHY PLUMPING.RINSE. Achieve voluminous, shiny locks enriched with bamboo extract and shea butter!"
   }
 }

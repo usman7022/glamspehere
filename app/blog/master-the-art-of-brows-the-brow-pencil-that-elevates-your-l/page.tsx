@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Master the Art of Brows: The Brow Pencil That Elevates Your Look",    "images": ["https://m.media-amazon.com/images/I/51nnm3xrl9L._AC_SL1500_.jpg"],
+  "twitter": {    "card": "summary",    "title": "Master the Art of Brows: The Brow Pencil That Elevates Your Look",    "image": "https://m.media-amazon.com/images/I/51nnm3xrl9L._AC_SL1500_.jpg",
     "description": "Master the Art of Brows: The Brow Pencil That Elevates Your Look"
   }
 }

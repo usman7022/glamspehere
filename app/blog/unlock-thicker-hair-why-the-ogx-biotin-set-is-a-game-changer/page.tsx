@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Thicker Hair: Why the OGX Biotin Set is a Game Changer",    "images": ["https://m.media-amazon.com/images/I/81LB7JZzqLL._SL1500_.jpg"],
+  "twitter": {    "card": "summary",    "title": "Unlock Thicker Hair: Why the OGX Biotin Set is a Game Changer",    "image": "https://m.media-amazon.com/images/I/81LB7JZzqLL._SL1500_.jpg",
     "description": "Unlock Thicker Hair: Why the OGX Biotin Set is a Game Changer"
   }
 }

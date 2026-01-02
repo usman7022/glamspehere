@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Your Beauty Potential: The Perfect 10 Palette Review",    "images": ["https://m.media-amazon.com/images/I/71sh9P-6UYL.jpg"],
+  "twitter": {    "card": "summary",    "title": "Unlock Your Beauty Potential: The Perfect 10 Palette Review",    "image": "https://m.media-amazon.com/images/I/71sh9P-6UYL.jpg",
     "description": "Elevate your eye game with e.l.f.'s Perfect 10 Palette! Experience stunning ultra-pigmented shades that unleash your inner beauty, cruelty-free and vegan."
   }
 }

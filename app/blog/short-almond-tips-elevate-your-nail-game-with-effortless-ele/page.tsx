@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Short Almond Tips: Elevate Your Nail Game with Effortless Elegance!",    "images": ["https://m.media-amazon.com/images/I/71vJ+2+remL._SL1500_.jpg"],
+  "twitter": {    "card": "summary",    "title": "Short Almond Tips: Elevate Your Nail Game with Effortless Elegance!",    "image": "https://m.media-amazon.com/images/I/71vJ+2+remL._SL1500_.jpg",
     "description": "Short Almond Tips: Elevate Your Nail Game with Effortless Elegance!"
   }
 }

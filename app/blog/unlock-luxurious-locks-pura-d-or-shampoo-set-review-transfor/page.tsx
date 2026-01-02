@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Luxurious Locks: PURA D'OR Shampoo Set Review & Transformation",    "images": ["https://m.media-amazon.com/images/I/81XOjAXoJFL.jpg"],
+  "twitter": {    "card": "summary",    "title": "Unlock Luxurious Locks: PURA D'OR Shampoo Set Review & Transformation",    "image": "https://m.media-amazon.com/images/I/81XOjAXoJFL.jpg",
     "description": "Unlock thicker, stronger hair with PURA D'OR’s Anti-Thinning Shampoo & Conditioner! Experience reduced breakage and luxurious locks with every wash."
   }
 }

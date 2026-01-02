@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Short Almond Tips: The Secret to Effortlessly Chic Nail Perfection",    "images": ["https://m.media-amazon.com/images/I/816lRCaVecL._SL1500_.jpg"],
+  "twitter": {    "card": "summary",    "title": "Short Almond Tips: The Secret to Effortlessly Chic Nail Perfection",    "image": "https://m.media-amazon.com/images/I/816lRCaVecL._SL1500_.jpg",
     "description": "Achieve salon-perfect nails at home with our pre-shaped short almond gel tips. Effortlessly chic and versatile, perfect for a stylish DIY manicure!"
   }
 }

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Nail Art Mastery: The Ultimate Acrylic Nail Brush Set Review",    "images": ["https://m.media-amazon.com/images/I/719nIKHOAIL._SL1500_.jpg"],
+  "twitter": {    "card": "summary",    "title": "Unlock Nail Art Mastery: The Ultimate Acrylic Nail Brush Set Review",    "image": "https://m.media-amazon.com/images/I/719nIKHOAIL._SL1500_.jpg",
     "description": "Unlock Nail Art Mastery: The Ultimate Acrylic Nail Brush Set Review"
   }
 }

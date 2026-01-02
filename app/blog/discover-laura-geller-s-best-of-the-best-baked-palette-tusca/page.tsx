@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   },
   "twitter": {    "card": "summary",
     "title": "\"Discover LAURA GELLER's Best of the Best Baked Palette: Tuscan Dreams\"",
-    "images": ["https://m.media-amazon.com/images/I/81XgV55haKL._SL1500_.jpg"],
+    "image": "https://m.media-amazon.com/images/I/81XgV55haKL._SL1500_.jpg",
     "description": "Final Verdict."
   }
 }

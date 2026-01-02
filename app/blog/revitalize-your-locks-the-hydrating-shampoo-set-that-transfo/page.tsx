@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Revitalize Your Locks: The Hydrating Shampoo Set That Transforms!",    "images": ["https://m.media-amazon.com/images/I/51JflNWJu4L.jpg"],
+  "twitter": {    "card": "summary",    "title": "Revitalize Your Locks: The Hydrating Shampoo Set That Transforms!",    "image": "https://m.media-amazon.com/images/I/51JflNWJu4L.jpg",
     "description": "Revitalize dry, damaged hair with Acure's Ultra Hydrating Shampoo and Conditioner set. Experience deep moisture and shine for all hair types—100% vegan!"
   }
 }

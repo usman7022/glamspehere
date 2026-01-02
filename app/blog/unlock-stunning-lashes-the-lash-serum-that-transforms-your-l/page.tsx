@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Stunning Lashes: The Lash Serum That Transforms Your Look",    "images": ["https://m.media-amazon.com/images/I/61wpgofJADL.jpg"],
+  "twitter": {    "card": "summary",    "title": "Unlock Stunning Lashes: The Lash Serum That Transforms Your Look",    "image": "https://m.media-amazon.com/images/I/61wpgofJADL.jpg",
     "description": "Unlock breathtaking lashes with our vegan lash serum! Achieve longer, thicker, and fuller lashes while caring for your sensitive eyes. Transform your look to..."
   }
 }

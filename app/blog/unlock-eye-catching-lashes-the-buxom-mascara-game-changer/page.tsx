@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Eye-Catching Lashes: The BUXOM Mascara Game-Changer",    "images": ["https://m.media-amazon.com/images/I/61zS0XeyFSL._SL1500_.jpg"],
+  "twitter": {    "card": "summary",    "title": "Unlock Eye-Catching Lashes: The BUXOM Mascara Game-Changer",    "image": "https://m.media-amazon.com/images/I/61zS0XeyFSL._SL1500_.jpg",
     "description": "Elevate your lash game with BUXOM’s Lash Volumizing Mascara! Experience bold, black intensity and incredible volume for eyes that mesmerize."
   }
 }

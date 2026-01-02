@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unleash Salon-Quality Nails: Our Nail Drill Kit Review Revealed",    "images": ["https://m.media-amazon.com/images/I/71jKmMtvsZL._SL1500_.jpg"],
+  "twitter": {    "card": "summary",    "title": "Unleash Salon-Quality Nails: Our Nail Drill Kit Review Revealed",    "image": "https://m.media-amazon.com/images/I/71jKmMtvsZL._SL1500_.jpg",
     "description": "Unleash Salon-Quality Nails: Our Nail Drill Kit Review Revealed"
   }
 }

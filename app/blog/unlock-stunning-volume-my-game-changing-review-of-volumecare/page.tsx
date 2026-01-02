@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Stunning Volume: My Game-Changing Review of VolumeCare+ Mascara",    "images": ["https://m.media-amazon.com/images/I/71oOcagcP1L.jpg"],
+  "twitter": {    "card": "summary",    "title": "Unlock Stunning Volume: My Game-Changing Review of VolumeCare+ Mascara",    "image": "https://m.media-amazon.com/images/I/71oOcagcP1L.jpg",
     "description": "Experience lush, voluminous lashes with Rumi Cosmetiques VolumeCare+ Mascara! Achieve stunning length without clumps—perfect for sensitive eyes."
   }
 }

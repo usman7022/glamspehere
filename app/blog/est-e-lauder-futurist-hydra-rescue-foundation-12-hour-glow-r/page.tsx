@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   },
   "twitter": {    "card": "summary",
     "title": "\"Estée Lauder Futurist Hydra Rescue Foundation: 12-Hour Glow Review\"",
-     "images": ["https://m.media-amazon.com/images/I/61DMdkEyLpL._SX425_.jpg"],
+     "image": "https://m.media-amazon.com/images/I/61DMdkEyLpL._SX425_.jpg",
     "description": "Final Verdict."
   }
 }

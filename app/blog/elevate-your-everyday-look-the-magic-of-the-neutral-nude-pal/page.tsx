@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Elevate Your Everyday Look: The Magic of the Neutral Nude Palette",    "images": ["https://m.media-amazon.com/images/I/61Kjdk50X0L._SL1000_.jpg"],
+  "twitter": {    "card": "summary",    "title": "Elevate Your Everyday Look: The Magic of the Neutral Nude Palette",    "image": "https://m.media-amazon.com/images/I/61Kjdk50X0L._SL1000_.jpg",
     "description": "Elevate your makeup game with a neutral nude palette! Achieve a stunning, natural smokey eye that lasts all day for a flawless, effortless look."
   }
 }

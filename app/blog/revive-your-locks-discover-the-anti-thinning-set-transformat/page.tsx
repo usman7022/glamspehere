@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Revive Your Locks: Discover the Anti-Thinning Set Transformation!",    "images": ["https://m.media-amazon.com/images/I/61yxT4-WZnL._SL1500_.jpg"],
+  "twitter": {    "card": "summary",    "title": "Revive Your Locks: Discover the Anti-Thinning Set Transformation!",    "image": "https://m.media-amazon.com/images/I/61yxT4-WZnL._SL1500_.jpg",
     "description": "Revitalize thinning hair with our Anti-Thinning Set! Experience fuller, healthier locks with biotin-powered, unscented shampoo and conditioner for all."
   }
 }

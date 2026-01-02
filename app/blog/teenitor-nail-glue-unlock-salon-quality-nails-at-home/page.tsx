@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Teenitor Nail Glue: Unlock Salon-Quality Nails at Home!",    "images": ["https://m.media-amazon.com/images/I/81hzyGMV0fL._SL1500_.jpg"],
+  "twitter": {    "card": "summary",    "title": "Teenitor Nail Glue: Unlock Salon-Quality Nails at Home!",    "image": "https://m.media-amazon.com/images/I/81hzyGMV0fL._SL1500_.jpg",
     "description": "Achieve salon-quality nails at home with Teenitor Pink Nail Glue! Fast-drying, water-resistant, and easy to use for stunning press-ons and acrylics."
   }
 }

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Revitalize Your Hair: The Rosemary Mint Shampoo That Refreshes and Energizes",    "images": ["https://m.media-amazon.com/images/I/61mmMNuHqOL._SL1500_.jpg"],
+  "twitter": {    "card": "summary",    "title": "Revitalize Your Hair: The Rosemary Mint Shampoo That Refreshes and Energizes",    "image": "https://m.media-amazon.com/images/I/61mmMNuHqOL._SL1500_.jpg",
     "description": "Revitalize Your Hair: The Rosemary Mint Shampoo That Refreshes and Energizes"
   }
 }
