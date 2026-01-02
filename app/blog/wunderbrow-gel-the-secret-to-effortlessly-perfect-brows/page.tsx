@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "WUNDERBROW Gel: The Secret to Effortlessly Perfect Brows!",    "image": "https://m.media-amazon.com/images/I/71EmoC9My2L.jpg",
+  "twitter": {    "card": "summary",    "title": "WUNDERBROW Gel: The Secret to Effortlessly Perfect Brows!",    "images": "https://m.media-amazon.com/images/I/71EmoC9My2L.jpg",
     "description": "Achieve effortlessly perfect brows with WUNDERBROW Gel! Enjoy waterproof, smudge-proof, long-lasting color in a vegan, cruelty-free formula. Transform your l..."
   }
 }

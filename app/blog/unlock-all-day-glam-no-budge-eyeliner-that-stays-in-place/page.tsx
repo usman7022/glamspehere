@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock All-Day Glam: No Budge Eyeliner That Stays in Place!",    "image": "https://m.media-amazon.com/images/I/61JmCL+oujL._SX425_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock All-Day Glam: No Budge Eyeliner That Stays in Place!",    "images": "https://m.media-amazon.com/images/I/61JmCL+oujL._SX425_.jpg",
     "description": "Unlock All-Day Glam: No Budge Eyeliner That Stays in Place!"
   }
 }

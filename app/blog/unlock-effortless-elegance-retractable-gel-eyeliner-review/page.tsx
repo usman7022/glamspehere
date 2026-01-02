@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Effortless Elegance: Retractable Gel Eyeliner Review",    "image": "https://m.media-amazon.com/images/I/61JLhiKMnJL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Effortless Elegance: Retractable Gel Eyeliner Review",    "images": "https://m.media-amazon.com/images/I/61JLhiKMnJL._SL1500_.jpg",
     "description": "Unlock Effortless Elegance: Retractable Gel Eyeliner Review"
   }
 }

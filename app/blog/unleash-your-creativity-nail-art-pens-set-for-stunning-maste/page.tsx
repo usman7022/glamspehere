@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unleash Your Creativity: Nail Art Pens Set for Stunning Masterpieces",    "image": "https://m.media-amazon.com/images/I/610H24rzA2L._SL1000_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unleash Your Creativity: Nail Art Pens Set for Stunning Masterpieces",    "images": "https://m.media-amazon.com/images/I/610H24rzA2L._SL1000_.jpg",
     "description": "Unlock your nail art potential with our 12-color pen set! Create stunning designs effortlessly at home and elevate your DIY manicure game today!"
   }
 }

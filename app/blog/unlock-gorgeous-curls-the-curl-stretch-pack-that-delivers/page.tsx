@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Gorgeous Curls: The Curl Stretch Pack That Delivers!",    "image": "https://m.media-amazon.com/images/I/81OQhhBOFtL.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Gorgeous Curls: The Curl Stretch Pack That Delivers!",    "images": "https://m.media-amazon.com/images/I/81OQhhBOFtL.jpg",
     "description": "Unlock your curl potential with SheaMoisture’s Curl Stretch Pack! Hydrate, repair, and minimize shrinkage for beautiful, defined curls that last."
   }
 }

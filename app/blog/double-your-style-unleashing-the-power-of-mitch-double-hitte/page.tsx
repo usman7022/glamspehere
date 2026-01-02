@@ -15,7 +15,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Double Your Style: Unleashing the Power of Mitch Double Hitter",    "image": "https://m.media-amazon.com/images/I/516QgZaFT2L.jpg",
+  "twitter": {    "card": "summary",    "title": "Double Your Style: Unleashing the Power of Mitch Double Hitter",    "images": "https://m.media-amazon.com/images/I/516QgZaFT2L.jpg",
     "description": "Elevate your grooming game with MITCH Double Hitter. This 2-in-1 shampoo and conditioner cleanses and nourishes, perfect for any man’s hair care routine!"
   }
 }

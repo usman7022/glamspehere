@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Flake-Free Scalps: My Nizoral Bundle Game-Changer Review",    "image": "https://m.media-amazon.com/images/I/71Li93t8dZL.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Flake-Free Scalps: My Nizoral Bundle Game-Changer Review",    "images": "https://m.media-amazon.com/images/I/71Li93t8dZL.jpg",
     "description": "Say goodbye to flakes! Revitalize your scalp and hair with my review of the Nizoral bundle—effective anti-dandruff shampoo plus deep moisturizer."
   }
 }

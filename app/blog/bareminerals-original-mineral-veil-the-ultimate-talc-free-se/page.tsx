@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   },
   "twitter": {    "card": "summary",
     "title": "\"bareMinerals Original Mineral Veil: The Ultimate Talc-Free Setting Powder\"",
-    "image": "https://m.media-amazon.com/images/I/816EAJXGUNL._SL1500_.jpg",
+    "images": "https://m.media-amazon.com/images/I/816EAJXGUNL._SL1500_.jpg",
     "description": "\"bareMinerals Original Mineral Veil: The Ultimate Talc-Free Setting Powder\""
   }
 }

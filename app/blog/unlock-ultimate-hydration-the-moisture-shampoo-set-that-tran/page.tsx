@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Ultimate Hydration: The Moisture Shampoo Set That Transforms!",    "image": "https://m.media-amazon.com/images/I/61eMEaazkiL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Ultimate Hydration: The Moisture Shampoo Set That Transforms!",    "images": "https://m.media-amazon.com/images/I/61eMEaazkiL._SL1500_.jpg",
     "description": "Revitalize dry, coarse hair with MONDAY HAIRCARE's Moisture Shampoo Set. Packed with coconut oil and shea butter for ultimate hydration and frizz control!"
   }
 }

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Your Inner Artist with the Rich & Foiled Palette Magic!",    "image": "https://m.media-amazon.com/images/I/713ds4-FnFL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Your Inner Artist with the Rich & Foiled Palette Magic!",    "images": "https://m.media-amazon.com/images/I/713ds4-FnFL._SL1500_.jpg",
     "description": "Unleash your creativity with the Morphe Rich & Foiled Palette! Achieve stunning metallic eye looks with luxe mattes, shimmers, and foils in mauve and pink."
   }
 }

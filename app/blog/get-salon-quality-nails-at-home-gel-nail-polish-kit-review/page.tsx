@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Get Salon-Quality Nails at Home: Gel Nail Polish Kit Review",    "image": "https://m.media-amazon.com/images/I/81gzeVn+OlL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Get Salon-Quality Nails at Home: Gel Nail Polish Kit Review",    "images": "https://m.media-amazon.com/images/I/81gzeVn+OlL._SL1500_.jpg",
     "description": "Achieve stunning salon-quality nails at home with the COSCELIA Gel Nail Polish Kit! Enjoy 35 vibrant colors and a UV light for perfect manicures anytime."
   }
 }

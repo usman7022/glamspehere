@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Elevate Your Elegance: French Tip Nails Review for Effortless Style",    "image": "https://m.media-amazon.com/images/I/71cbayWUpjL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Elevate Your Elegance: French Tip Nails Review for Effortless Style",    "images": "https://m.media-amazon.com/images/I/71cbayWUpjL._SL1500_.jpg",
     "description": "Elevate Your Elegance: French Tip Nails Review for Effortless Style"
   }
 }

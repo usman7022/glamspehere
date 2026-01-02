@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Press on Nails: The Secret to Salon-Quality Manicures at Home",    "image": "https://m.media-amazon.com/images/I/618f6nvubeL._SX425_.jpg",
+  "twitter": {    "card": "summary",    "title": "Press on Nails: The Secret to Salon-Quality Manicures at Home",    "images": "https://m.media-amazon.com/images/I/618f6nvubeL._SX425_.jpg",
     "description": "Achieve stunning salon-quality manicures at home with glossy press-on nails! Discover the perfect almond ombre design for effortless daily elegance."
   }
 }

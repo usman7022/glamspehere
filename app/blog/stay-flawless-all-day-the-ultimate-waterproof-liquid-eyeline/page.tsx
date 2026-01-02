@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Stay Flawless All Day: The Ultimate Waterproof Liquid Eyeliner Review",    "image": "https://m.media-amazon.com/images/I/51p-kSb56VL.jpg",
+  "twitter": {    "card": "summary",    "title": "Stay Flawless All Day: The Ultimate Waterproof Liquid Eyeliner Review",    "images": "https://m.media-amazon.com/images/I/51p-kSb56VL.jpg",
     "description": "Achieve flawless winged liner with Rouge & Rogue's Ultra-Black Waterproof Eyeliner. Long-lasting, smudge-proof, vegan perfection awaits your beauty routine!"
   }
 }

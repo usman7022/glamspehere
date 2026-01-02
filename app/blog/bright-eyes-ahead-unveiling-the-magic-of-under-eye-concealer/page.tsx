@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Bright Eyes Ahead: Unveiling the Magic of Under Eye Concealer",    "image": "https://m.media-amazon.com/images/I/61ujba9aL9L._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Bright Eyes Ahead: Unveiling the Magic of Under Eye Concealer",    "images": "https://m.media-amazon.com/images/I/61ujba9aL9L._SL1500_.jpg",
     "description": "Elevate your makeup routine with Glo Skin Beauty's Under Eye Concealer! Achieve flawless, long-lasting coverage that brightens and conceals dark circles effo..."
   }
 }

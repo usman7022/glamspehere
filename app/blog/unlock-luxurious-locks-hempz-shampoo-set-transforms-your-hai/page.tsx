@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Luxurious Locks: HEMPZ Shampoo Set Transforms Your Hair Game",    "image": "https://m.media-amazon.com/images/I/71Oj5TUH9AL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Luxurious Locks: HEMPZ Shampoo Set Transforms Your Hair Game",    "images": "https://m.media-amazon.com/images/I/71Oj5TUH9AL._SL1500_.jpg",
     "description": "Revitalize your hair with HEMPZ Shampoo Set! Hydrate and soften fine, damaged strands while enjoying a delightful Sweet Pineapple & Honey Melon scent."
   }
 }

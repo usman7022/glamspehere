@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Elevate Your Style: The French Tip Nails That Redefine Elegance",    "image": "https://m.media-amazon.com/images/I/71oqWKgAuKL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Elevate Your Style: The French Tip Nails That Redefine Elegance",    "images": "https://m.media-amazon.com/images/I/71oqWKgAuKL._SL1500_.jpg",
     "description": "Elevate Your Style: The French Tip Nails That Redefine Elegance"
   }
 }

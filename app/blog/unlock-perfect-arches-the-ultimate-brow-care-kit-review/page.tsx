@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Perfect Arches: The Ultimate Brow Care Kit Review",    "image": "https://m.media-amazon.com/images/I/71mq2rwOe2L.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Perfect Arches: The Ultimate Brow Care Kit Review",    "images": "https://m.media-amazon.com/images/I/71mq2rwOe2L.jpg",
     "description": "Achieve flawless brows effortlessly with the Amazon Basics 4 Piece Brow Kit. Sculpt, define, and elevate your look at home with salon-worthy precision!"
   }
 }

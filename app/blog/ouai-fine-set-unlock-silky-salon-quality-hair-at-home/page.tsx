@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "OUAI Fine Set: Unlock Silky, Salon-Quality Hair at Home!",    "image": "https://m.media-amazon.com/images/I/51WHZwmLr1L._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "OUAI Fine Set: Unlock Silky, Salon-Quality Hair at Home!",    "images": "https://m.media-amazon.com/images/I/51WHZwmLr1L._SL1500_.jpg",
     "description": "Unlock silky, salon-quality hair at home with OUAI's Fine Set. Nourish fine hair with keratin and shea butter for a luxurious, vibrant finish!"
   }
 }

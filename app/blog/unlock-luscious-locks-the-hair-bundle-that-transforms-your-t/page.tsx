@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Luscious Locks: The Hair Bundle That Transforms Your Tresses",    "image": "https://m.media-amazon.com/images/I/81RqYqYDezL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Luscious Locks: The Hair Bundle That Transforms Your Tresses",    "images": "https://m.media-amazon.com/images/I/81RqYqYDezL._SL1500_.jpg",
     "description": "Unlock Luscious Locks: The Hair Bundle That Transforms Your Tresses"
   }
 }

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Curvlife Glue Kit: Elevate Your Craft with Unstoppable Bonding Power",    "image": "https://m.media-amazon.com/images/I/61qpdqv5UcL.jpg",
+  "twitter": {    "card": "summary",    "title": "Curvlife Glue Kit: Elevate Your Craft with Unstoppable Bonding Power",    "images": "https://m.media-amazon.com/images/I/61qpdqv5UcL.jpg",
     "description": "Achieve flawless press-on nails effortlessly with Curvlife's quick-dry glue kit! Enjoy strong, long-lasting bonds and easy removal for stunning results."
   }
 }

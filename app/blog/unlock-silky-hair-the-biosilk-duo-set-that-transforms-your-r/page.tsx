@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Silky Hair: The BioSilk Duo Set That Transforms Your Routine",    "image": "https://m.media-amazon.com/images/I/61J0VYoTdeL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Silky Hair: The BioSilk Duo Set That Transforms Your Routine",    "images": "https://m.media-amazon.com/images/I/61J0VYoTdeL._SL1500_.jpg",
     "description": "Unlock Silky Hair: The BioSilk Duo Set That Transforms Your Routine"
   }
 }

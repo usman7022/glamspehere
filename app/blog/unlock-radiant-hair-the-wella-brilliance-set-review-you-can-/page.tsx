@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Radiant Hair: The Wella Brilliance Set Review You Can't Miss!",    "image": "https://m.media-amazon.com/images/I/51vI3TdvZiL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Radiant Hair: The Wella Brilliance Set Review You Can't Miss!",    "images": "https://m.media-amazon.com/images/I/51vI3TdvZiL._SL1500_.jpg",
     "description": "Revitalize your hair with Wella's Invigo Brilliance Set. Achieve vibrant, color-protected locks that shine brilliantly. Experience salon-quality results at h..."
   }
 }

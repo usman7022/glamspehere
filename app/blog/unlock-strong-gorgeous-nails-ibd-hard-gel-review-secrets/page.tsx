@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Strong, Gorgeous Nails: ibd Hard Gel Review & Secrets",    "image": "https://m.media-amazon.com/images/I/61rr-5jbuxL._SL1000_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Strong, Gorgeous Nails: ibd Hard Gel Review & Secrets",    "images": "https://m.media-amazon.com/images/I/61rr-5jbuxL._SL1000_.jpg",
     "description": "Unlock Strong, Gorgeous Nails: ibd Hard Gel Review & Secrets"
   }
 }

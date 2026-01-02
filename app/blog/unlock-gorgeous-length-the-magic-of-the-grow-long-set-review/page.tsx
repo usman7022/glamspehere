@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Gorgeous Length: The Magic of the Grow Long Set Review",    "image": "https://m.media-amazon.com/images/I/81Un4u57qJL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Gorgeous Length: The Magic of the Grow Long Set Review",    "images": "https://m.media-amazon.com/images/I/81Un4u57qJL._SL1500_.jpg",
     "description": "Unlock Gorgeous Length: The Magic of the Grow Long Set Review"
   }
 }

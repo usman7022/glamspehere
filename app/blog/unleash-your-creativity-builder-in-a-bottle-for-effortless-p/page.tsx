@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unleash Your Creativity: Builder In A Bottle for Effortless Projects",    "image": "https://m.media-amazon.com/images/I/41oI+G5SGBL.jpg",
+  "twitter": {    "card": "summary",    "title": "Unleash Your Creativity: Builder In A Bottle for Effortless Projects",    "images": "https://m.media-amazon.com/images/I/41oI+G5SGBL.jpg",
     "description": "Elevate your nail game effortlessly with Orly Builder In A Bottle! Achieve salon-quality extensions and repairs at home for stunning, long-lasting results."
   }
 }
