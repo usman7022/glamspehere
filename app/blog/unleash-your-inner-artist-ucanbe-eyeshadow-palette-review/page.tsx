@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unleash Your Inner Artist: UCANBE Eyeshadow Palette Review",    "images": "https://m.media-amazon.com/images/I/710YFHUujBL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unleash Your Inner Artist: UCANBE Eyeshadow Palette Review",    "images": ["https://m.media-amazon.com/images/I/710YFHUujBL._SL1500_.jpg"],
     "description": "Unleash your creativity with the UCANBE Eyeshadow Palette! Experience vibrant colors and versatile looks with 15 brushes for endless makeup magic."
   }
 }

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unleash Your Inner Artist: BestLand Eyeshadow Palette Review",    "images": "https://m.media-amazon.com/images/I/61j6kx0t-BL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unleash Your Inner Artist: BestLand Eyeshadow Palette Review",    "images": ["https://m.media-amazon.com/images/I/61j6kx0t-BL._SL1500_.jpg"],
     "description": "Unleash Your Inner Artist: BestLand Eyeshadow Palette Review"
   }
 }

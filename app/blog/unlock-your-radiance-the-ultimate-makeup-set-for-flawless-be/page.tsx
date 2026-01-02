@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Your Radiance: The Ultimate Makeup Set for Flawless Beauty",    "images": "https://m.media-amazon.com/images/I/81rZkLgj+9L._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Your Radiance: The Ultimate Makeup Set for Flawless Beauty",    "images": ["https://m.media-amazon.com/images/I/81rZkLgj+9L._SL1500_.jpg"],
     "description": "Unlock your beauty potential with our ultimate makeup set! Flawless foundation, vibrant eyeshadow, and essential tools for a radiant look every day."
   }
 }

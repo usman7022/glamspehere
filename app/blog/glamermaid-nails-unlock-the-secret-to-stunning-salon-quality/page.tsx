@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "GLAMERMAID Nails: Unlock the Secret to Stunning, Salon-Quality Manis",    "images": "https://m.media-amazon.com/images/I/61T5px5VwxL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "GLAMERMAID Nails: Unlock the Secret to Stunning, Salon-Quality Manis",    "images": ["https://m.media-amazon.com/images/I/61T5px5VwxL._SL1500_.jpg"],
     "description": "GLAMERMAID Nails: Unlock the Secret to Stunning, Salon-Quality Manis"
   }
 }

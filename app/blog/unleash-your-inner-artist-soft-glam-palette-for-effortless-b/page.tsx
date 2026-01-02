@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unleash Your Inner Artist: Soft Glam Palette for Effortless Beauty",    "images": "https://m.media-amazon.com/images/I/513MjN3KNjL._SL1376_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unleash Your Inner Artist: Soft Glam Palette for Effortless Beauty",    "images": ["https://m.media-amazon.com/images/I/513MjN3KNjL._SL1376_.jpg"],
     "description": "Elevate your look effortlessly with Anastasia Beverly Hills’ Soft Glam palette. Unleash your inner artist and master stunning, versatile beauty today!"
   }
 }

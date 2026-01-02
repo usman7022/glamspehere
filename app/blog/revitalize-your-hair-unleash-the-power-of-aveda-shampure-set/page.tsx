@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Revitalize Your Hair: Unleash the Power of Aveda Shampure Set",    "images": "https://m.media-amazon.com/images/I/71GHLG2CmzL.jpg",
+  "twitter": {    "card": "summary",    "title": "Revitalize Your Hair: Unleash the Power of Aveda Shampure Set",    "images": ["https://m.media-amazon.com/images/I/71GHLG2CmzL.jpg"],
     "description": "Revitalize your hair with the Aveda Shampure Set. Experience nurturing daily care for normal, fine to medium hair—all with silicone-free, powerful ingredients!"
   }
 }

@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Endless Looks: Why La Palette Nude is Your Beauty Game-Changer",    "images": "https://m.media-amazon.com/images/I/610jJsVDBCL._SL1125_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Endless Looks: Why La Palette Nude is Your Beauty Game-Changer",    "images": ["https://m.media-amazon.com/images/I/610jJsVDBCL._SL1125_.jpg"],
     "description": "Elevate your beauty game with La Palette Nude. Unlock versatile looks with 12 stunning shades, perfect for any occasion. Transform your eye makeup today!"
   }
 }

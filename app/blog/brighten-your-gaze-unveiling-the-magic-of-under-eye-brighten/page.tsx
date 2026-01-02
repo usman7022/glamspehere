@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Brighten Your Gaze: Unveiling the Magic of Under Eye Brightener",    "images": "https://m.media-amazon.com/images/I/61EFwUap2wL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Brighten Your Gaze: Unveiling the Magic of Under Eye Brightener",    "images": ["https://m.media-amazon.com/images/I/61EFwUap2wL._SL1500_.jpg"],
     "description": "Brighten Your Gaze: Unveiling the Magic of Under Eye Brightener"
   }
 }

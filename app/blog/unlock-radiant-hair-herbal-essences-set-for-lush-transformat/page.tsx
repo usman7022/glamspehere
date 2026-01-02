@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Radiant Hair: Herbal Essences Set for Lush Transformation!",    "images": "https://m.media-amazon.com/images/I/61jCPnzmPjL._SL1000_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Radiant Hair: Herbal Essences Set for Lush Transformation!",    "images": ["https://m.media-amazon.com/images/I/61jCPnzmPjL._SL1000_.jpg"],
     "description": "Unlock Radiant Hair: Herbal Essences Set for Lush Transformation!"
   }
 }

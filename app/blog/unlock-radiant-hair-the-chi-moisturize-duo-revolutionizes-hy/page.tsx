@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Radiant Hair: The CHI Moisturize Duo Revolutionizes Hydration",    "images": "https://m.media-amazon.com/images/I/51StfL+ayYL.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Radiant Hair: The CHI Moisturize Duo Revolutionizes Hydration",    "images": ["https://m.media-amazon.com/images/I/51StfL+ayYL.jpg"],
     "description": "Revitalize your hair with the CHI Moisturize Duo! This sulfate-free shampoo and conditioner set deeply hydrates, restores strength, and enhances shine."
   }
 }

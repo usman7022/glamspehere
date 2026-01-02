@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Stunning Lashes: High Impact Mascara That Delivers Drama",    "images": "https://m.media-amazon.com/images/I/71XloDb-ssL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Stunning Lashes: High Impact Mascara That Delivers Drama",    "images": ["https://m.media-amazon.com/images/I/71XloDb-ssL._SL1500_.jpg"],
     "description": "Elevate your lash game with Clinique's High Impact Mascara! Experience dramatic length and volume while keeping your sensitive eyes safe—travel size included!"
   }
 }

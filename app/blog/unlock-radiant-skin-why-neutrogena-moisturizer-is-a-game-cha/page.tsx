@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Unlock Radiant Skin: Why Neutrogena Moisturizer is a Game-Changer",    "images": "https://m.media-amazon.com/images/I/61xdGtF3gCL.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Radiant Skin: Why Neutrogena Moisturizer is a Game-Changer",    "images": ["https://m.media-amazon.com/images/I/61xdGtF3gCL.jpg"],
     "description": "Unlock your glow with Neutrogena's retinol moisturizer! Achieve youthful, radiant skin while enjoying sheer coverage and sun protection in one step."
   }
 }

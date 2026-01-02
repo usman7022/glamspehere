@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Long Straight Nails: Unlock the Secret to Effortlessly Chic Manicures",    "images": "https://m.media-amazon.com/images/I/81gW1UNL07L._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Long Straight Nails: Unlock the Secret to Effortlessly Chic Manicures",    "images": ["https://m.media-amazon.com/images/I/81gW1UNL07L._SL1500_.jpg"],
     "description": "Long Straight Nails: Unlock the Secret to Effortlessly Chic Manicures"
   }
 }

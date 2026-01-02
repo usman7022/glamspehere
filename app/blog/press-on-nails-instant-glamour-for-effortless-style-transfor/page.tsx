@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary",    "title": "Press On Nails: Instant Glamour for Effortless Style Transformations",    "images": "https://m.media-amazon.com/images/I/61hdJrNefqL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Press On Nails: Instant Glamour for Effortless Style Transformations",    "images": ["https://m.media-amazon.com/images/I/61hdJrNefqL._SL1500_.jpg"],
     "description": "Press On Nails: Instant Glamour for Effortless Style Transformations"
   }
 }
