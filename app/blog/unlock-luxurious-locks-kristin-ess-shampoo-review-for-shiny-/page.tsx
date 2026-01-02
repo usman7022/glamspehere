@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize your hair with Kristin Ess Shampoo! Experience luscious, shiny locks while nourishing and repairing damage with a refreshing pear fragrance.",
   "openGraph": {
     "title": "Unlock Luxurious Locks: Kristin Ess Shampoo Review for Shiny Hair",
+    "images": "https://m.media-amazon.com/images/I/610KlIy0BFL._SL1500_.jpg",
     "description": "Revitalize your hair with Kristin Ess Shampoo! Experience luscious, shiny locks while nourishing and repairing damage with a refreshing pear fragrance.",
     "type": "article",
     "publishedTime": "2025-12-25T04:03:10.882Z",

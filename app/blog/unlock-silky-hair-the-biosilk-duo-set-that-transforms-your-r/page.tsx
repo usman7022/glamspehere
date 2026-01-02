@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock Silky Hair: The BioSilk Duo Set That Transforms Your Routine",
   "openGraph": {
     "title": "Unlock Silky Hair: The BioSilk Duo Set That Transforms Your Routine",
+    "images": "https://m.media-amazon.com/images/I/61J0VYoTdeL._SL1500_.jpg",
     "description": "Unlock Silky Hair: The BioSilk Duo Set That Transforms Your Routine",
     "type": "article",
     "publishedTime": "2025-12-23T06:02:05.301Z",

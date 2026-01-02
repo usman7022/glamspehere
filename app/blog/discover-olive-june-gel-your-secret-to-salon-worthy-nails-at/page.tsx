@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Achieve stunning salon-quality nails at home with Olive & June Gel. Enjoy up to 21 days of vibrant wear and damage-free removal. Get your dark ruby today!",
   "openGraph": {
     "title": "Discover Olive & June Gel: Your Secret to Salon-Worthy Nails at Home!",
+     "images": "https://m.media-amazon.com/images/I/51v7UHmGF8L.jpg",
     "description": "Achieve stunning salon-quality nails at home with Olive & June Gel. Enjoy up to 21 days of vibrant wear and damage-free removal. Get your dark ruby today!",
     "type": "article",
     "publishedTime": "2025-12-26T19:08:44.866Z",

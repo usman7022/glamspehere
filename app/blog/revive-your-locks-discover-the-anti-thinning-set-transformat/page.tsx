@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize thinning hair with our Anti-Thinning Set! Experience fuller, healthier locks with biotin-powered, unscented shampoo and conditioner for all.",
   "openGraph": {
     "title": "Revive Your Locks: Discover the Anti-Thinning Set Transformation!",
+    "images": "https://m.media-amazon.com/images/I/61yxT4-WZnL._SL1500_.jpg",
     "description": "Revitalize thinning hair with our Anti-Thinning Set! Experience fuller, healthier locks with biotin-powered, unscented shampoo and conditioner for all.",
     "type": "article",
     "publishedTime": "2025-12-24T02:04:15.292Z",

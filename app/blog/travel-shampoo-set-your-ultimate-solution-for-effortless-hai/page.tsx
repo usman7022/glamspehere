@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Travel light and care for your hair with ECO Amenities' 2-in-1 Green Tea shampoo and conditioner. Mini, eco-friendly, TSA-approved for on-the-go freshness!",
   "openGraph": {
     "title": "Travel Shampoo Set: Your Ultimate Solution for Effortless Hair Care on the Go!",
+    "images": "https://m.media-amazon.com/images/I/71fl06hn7OL.jpg",
     "description": "Travel light and care for your hair with ECO Amenities' 2-in-1 Green Tea shampoo and conditioner. Mini, eco-friendly, TSA-approved for on-the-go freshness!",
     "type": "article",
     "publishedTime": "2025-12-26T09:01:43.709Z",

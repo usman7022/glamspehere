@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock soft, healthy locks with CeraVe's Gentle Shampoo and Conditioner Set. Infused with ceramides and hyaluronic acid for all hair types—hydrate today!",
   "openGraph": {
     "title": "Unlock Luxurious Locks: The CeraVe Shampoo Set You'll Love",
+    "images": "https://m.media-amazon.com/images/I/71XDJBp40EL.jpg",
     "description": "Unlock soft, healthy locks with CeraVe's Gentle Shampoo and Conditioner Set. Infused with ceramides and hyaluronic acid for all hair types—hydrate today!",
     "type": "article",
     "publishedTime": "2025-12-26T18:25:58.974Z",

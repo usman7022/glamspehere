@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize your hair with California Naturals Coconut Shampoo Set! Experience vibrant, natural shine while enjoying a sulfate-free, vegan cleanse for all hai...",
   "openGraph": {
     "title": "Unlock Tropical Radiance: The Coconut Shampoo Set You Can't Miss",
+    "images": "https://m.media-amazon.com/images/I/71wIyx95zvL._SL1500_.jpg",
     "description": "Revitalize your hair with California Naturals Coconut Shampoo Set! Experience vibrant, natural shine while enjoying a sulfate-free, vegan cleanse for all hai...",
     "type": "article",
     "publishedTime": "2025-12-25T11:06:54.637Z",

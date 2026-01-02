@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock Stunning Eyes: COVERGIRL Eyeliner That Stays All Day!",
   "openGraph": {
     "title": "Unlock Stunning Eyes: COVERGIRL Eyeliner That Stays All Day!",
+    "images": "https://m.media-amazon.com/images/I/61Q76cNVtVL._SL1500_.jpg",
     "description": "Unlock Stunning Eyes: COVERGIRL Eyeliner That Stays All Day!",
     "type": "article",
     "publishedTime": "2025-12-23T01:02:00.709Z",

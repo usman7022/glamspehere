@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Achieve a radiant, sun-kissed glow instantly with e.l.f. SKIN Bronzing Drops! Infused with vitamin E for a healthy, bronzed complexion—vegan & cruelty-free.",
   "openGraph": {
     "title": "Glow Up Instantly: Unveiling the Magic of Bronzing Drops",
+    "images": "https://m.media-amazon.com/images/I/612LnF4ktDL.jpg",
     "description": "Achieve a radiant, sun-kissed glow instantly with e.l.f. SKIN Bronzing Drops! Infused with vitamin E for a healthy, bronzed complexion—vegan & cruelty-free.",
     "type": "article",
     "publishedTime": "2025-12-26T08:02:26.726Z",

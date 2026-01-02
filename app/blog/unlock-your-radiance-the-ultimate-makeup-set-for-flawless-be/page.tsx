@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock your beauty potential with our ultimate makeup set! Flawless foundation, vibrant eyeshadow, and essential tools for a radiant look every day.",
   "openGraph": {
     "title": "Unlock Your Radiance: The Ultimate Makeup Set for Flawless Beauty",
+    "images": "https://m.media-amazon.com/images/I/81rZkLgj+9L._SL1500_.jpg",
     "description": "Unlock your beauty potential with our ultimate makeup set! Flawless foundation, vibrant eyeshadow, and essential tools for a radiant look every day.",
     "type": "article",
     "publishedTime": "2025-12-25T10:03:35.196Z",

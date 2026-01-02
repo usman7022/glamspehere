@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize your hair with HEMPZ Shampoo Set! Hydrate and soften fine, damaged strands while enjoying a delightful Sweet Pineapple & Honey Melon scent.",
   "openGraph": {
     "title": "Unlock Luxurious Locks: HEMPZ Shampoo Set Transforms Your Hair Game",
+    "images": "https://m.media-amazon.com/images/I/71Oj5TUH9AL._SL1500_.jpg",
     "description": "Revitalize your hair with HEMPZ Shampoo Set! Hydrate and soften fine, damaged strands while enjoying a delightful Sweet Pineapple & Honey Melon scent.",
     "type": "article",
     "publishedTime": "2025-12-25T07:03:31.550Z",

@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "\"bareMinerals Original Mineral Veil: The Ultimate Talc-Free Setting Powder\"",
   "openGraph": {
     "title": "\"bareMinerals Original Mineral Veil: The Ultimate Talc-Free Setting Powder\"",
+     "images": "https://m.media-amazon.com/images/I/816EAJXGUNL._SL1500_.jpg",
     "description": "\"bareMinerals Original Mineral Veil: The Ultimate Talc-Free Setting Powder\"",
     "type": "article",
     "publishedTime": "2025-12-22T01:19:30.805Z",

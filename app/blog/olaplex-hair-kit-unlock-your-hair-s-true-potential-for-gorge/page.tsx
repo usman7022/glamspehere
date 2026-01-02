@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock radiant, healthy hair with the Olaplex Wash and Shine Kit. Cleanse, hydrate, and tame frizz for up to 72 hours—perfect for all hair types!",
   "openGraph": {
     "title": "Olaplex Hair Kit: Unlock Your Hair’s True Potential for Gorgeous Locks",
+    "images": "https://m.media-amazon.com/images/I/61e2-jaRmtL._SL1440_.jpg",
     "description": "Unlock radiant, healthy hair with the Olaplex Wash and Shine Kit. Cleanse, hydrate, and tame frizz for up to 72 hours—perfect for all hair types!",
     "type": "article",
     "publishedTime": "2025-12-25T05:03:15.490Z",

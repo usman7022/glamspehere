@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Experience the transformation to fuller, thicker hair with BondiBoost's Anti-Thinning Shampoo & Conditioner. Nourish your locks and embrace luxurious beauty!",
   "openGraph": {
     "title": "Unlock Luxurious Locks: My BondiBoost Shampoo Set Experience",
+    "images": "https://m.media-amazon.com/images/I/71wusCTU-bL.jpg",
     "description": "Experience the transformation to fuller, thicker hair with BondiBoost's Anti-Thinning Shampoo & Conditioner. Nourish your locks and embrace luxurious beauty!",
     "type": "article",
     "publishedTime": "2025-12-26T03:01:42.257Z",

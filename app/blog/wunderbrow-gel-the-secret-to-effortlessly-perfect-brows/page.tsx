@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Achieve effortlessly perfect brows with WUNDERBROW Gel! Enjoy waterproof, smudge-proof, long-lasting color in a vegan, cruelty-free formula. Transform your l...",
   "openGraph": {
     "title": "WUNDERBROW Gel: The Secret to Effortlessly Perfect Brows!",
+    "images": "https://m.media-amazon.com/images/I/71EmoC9My2L.jpg",
     "description": "Achieve effortlessly perfect brows with WUNDERBROW Gel! Enjoy waterproof, smudge-proof, long-lasting color in a vegan, cruelty-free formula. Transform your l...",
     "type": "article",
     "publishedTime": "2025-12-25T19:01:53.664Z",

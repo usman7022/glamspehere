@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock thicker, stronger hair with PURA D'OR’s Anti-Thinning Shampoo & Conditioner! Experience reduced breakage and luxurious locks with every wash.",
   "openGraph": {
     "title": "Unlock Luxurious Locks: PURA D'OR Shampoo Set Review & Transformation",
+    "images": "https://m.media-amazon.com/images/I/81XOjAXoJFL.jpg",
     "description": "Unlock thicker, stronger hair with PURA D'OR’s Anti-Thinning Shampoo & Conditioner! Experience reduced breakage and luxurious locks with every wash.",
     "type": "article",
     "publishedTime": "2025-12-25T17:03:06.870Z",

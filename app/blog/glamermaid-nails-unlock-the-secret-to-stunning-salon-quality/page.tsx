@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "GLAMERMAID Nails: Unlock the Secret to Stunning, Salon-Quality Manis",
   "openGraph": {
     "title": "GLAMERMAID Nails: Unlock the Secret to Stunning, Salon-Quality Manis",
+    "images": "https://m.media-amazon.com/images/I/61T5px5VwxL._SL1500_.jpg",
     "description": "GLAMERMAID Nails: Unlock the Secret to Stunning, Salon-Quality Manis",
     "type": "article",
     "publishedTime": "2025-12-23T05:01:39.971Z",

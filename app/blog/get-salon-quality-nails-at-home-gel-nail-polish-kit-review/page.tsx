@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Achieve stunning salon-quality nails at home with the COSCELIA Gel Nail Polish Kit! Enjoy 35 vibrant colors and a UV light for perfect manicures anytime.",
   "openGraph": {
     "title": "Get Salon-Quality Nails at Home: Gel Nail Polish Kit Review",
+    "images": "https://m.media-amazon.com/images/I/81gzeVn+OlL._SL1500_.jpg",
     "description": "Achieve stunning salon-quality nails at home with the COSCELIA Gel Nail Polish Kit! Enjoy 35 vibrant colors and a UV light for perfect manicures anytime.",
     "type": "article",
     "publishedTime": "2025-12-24T09:02:22.952Z",

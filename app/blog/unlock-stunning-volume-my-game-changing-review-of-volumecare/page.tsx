@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Experience lush, voluminous lashes with Rumi Cosmetiques VolumeCare+ Mascara! Achieve stunning length without clumps—perfect for sensitive eyes.",
   "openGraph": {
     "title": "Unlock Stunning Volume: My Game-Changing Review of VolumeCare+ Mascara",
+    "images": "https://m.media-amazon.com/images/I/71oOcagcP1L.jpg",
     "description": "Experience lush, voluminous lashes with Rumi Cosmetiques VolumeCare+ Mascara! Achieve stunning length without clumps—perfect for sensitive eyes.",
     "type": "article",
     "publishedTime": "2025-12-26T16:02:29.281Z",

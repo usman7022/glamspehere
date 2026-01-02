@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock breathtaking lashes with our vegan lash serum! Achieve longer, thicker, and fuller lashes while caring for your sensitive eyes. Transform your look to...",
   "openGraph": {
     "title": "Unlock Stunning Lashes: The Lash Serum That Transforms Your Look",
+    "images": "https://m.media-amazon.com/images/I/61wpgofJADL.jpg",
     "description": "Unlock breathtaking lashes with our vegan lash serum! Achieve longer, thicker, and fuller lashes while caring for your sensitive eyes. Transform your look to...",
     "type": "article",
     "publishedTime": "2025-12-26T11:31:46.004Z",

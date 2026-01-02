@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Achieve flawless brows effortlessly with the Amazon Basics 4 Piece Brow Kit. Sculpt, define, and elevate your look at home with salon-worthy precision!",
   "openGraph": {
     "title": "Unlock Perfect Arches: The Ultimate Brow Care Kit Review",
+    "images": "https://m.media-amazon.com/images/I/71mq2rwOe2L.jpg",
     "description": "Achieve flawless brows effortlessly with the Amazon Basics 4 Piece Brow Kit. Sculpt, define, and elevate your look at home with salon-worthy precision!",
     "type": "article",
     "publishedTime": "2025-12-26T07:02:15.235Z",

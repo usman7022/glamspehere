@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Achieve flawless winged liner with Rouge & Rogue's Ultra-Black Waterproof Eyeliner. Long-lasting, smudge-proof, vegan perfection awaits your beauty routine!",
   "openGraph": {
     "title": "Stay Flawless All Day: The Ultimate Waterproof Liquid Eyeliner Review",
+    "images": "https://m.media-amazon.com/images/I/51p-kSb56VL.jpg",
     "description": "Achieve flawless winged liner with Rouge & Rogue's Ultra-Black Waterproof Eyeliner. Long-lasting, smudge-proof, vegan perfection awaits your beauty routine!",
     "type": "article",
     "publishedTime": "2025-12-26T06:08:52.627Z",

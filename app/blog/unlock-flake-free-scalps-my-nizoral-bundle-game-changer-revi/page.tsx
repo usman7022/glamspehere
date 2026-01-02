@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Say goodbye to flakes! Revitalize your scalp and hair with my review of the Nizoral bundle—effective anti-dandruff shampoo plus deep moisturizer.",
   "openGraph": {
     "title": "Unlock Flake-Free Scalps: My Nizoral Bundle Game-Changer Review",
+    "images": "https://m.media-amazon.com/images/I/71Li93t8dZL.jpg",
     "description": "Say goodbye to flakes! Revitalize your scalp and hair with my review of the Nizoral bundle—effective anti-dandruff shampoo plus deep moisturizer.",
     "type": "article",
     "publishedTime": "2025-12-26T18:08:48.164Z",

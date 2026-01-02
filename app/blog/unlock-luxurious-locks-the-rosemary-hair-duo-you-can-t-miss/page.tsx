@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize thinning hair with the Nécessaire Rosemary Hair Duo! Strengthen and nourish all hair types with this sulfate-free, color-safe shampoo and conditio...",
   "openGraph": {
     "title": "Unlock Luxurious Locks: The Rosemary Hair Duo You Can't Miss!",
+    "images": "https://m.media-amazon.com/images/I/61SpbQ9cN6L._SL1500_.jpg",
     "description": "Revitalize thinning hair with the Nécessaire Rosemary Hair Duo! Strengthen and nourish all hair types with this sulfate-free, color-safe shampoo and conditio...",
     "type": "article",
     "publishedTime": "2025-12-25T12:01:36.191Z",

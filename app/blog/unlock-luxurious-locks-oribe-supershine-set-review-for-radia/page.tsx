@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock radiant, silky hair with the Oribe Supershine Discovery Set. Hydrate, smooth, and enhance shine for luxurious locks wherever you go!",
   "openGraph": {
     "title": "Unlock Luxurious Locks: Oribe Supershine Set Review for Radiant Hair",
+    "images": "https://m.media-amazon.com/images/I/71-z5trgApL.jpg",
     "description": "Unlock radiant, silky hair with the Oribe Supershine Discovery Set. Hydrate, smooth, and enhance shine for luxurious locks wherever you go!",
     "type": "article",
     "publishedTime": "2025-12-26T12:01:57.789Z",

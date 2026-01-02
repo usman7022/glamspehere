@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Elevate Your Elegance: French Tip Nails Review for Effortless Style",
   "openGraph": {
     "title": "Elevate Your Elegance: French Tip Nails Review for Effortless Style",
+     "images": "https://m.media-amazon.com/images/I/71cbayWUpjL._SL1500_.jpg",
     "description": "Elevate Your Elegance: French Tip Nails Review for Effortless Style",
     "type": "article",
     "publishedTime": "2025-12-22T02:30:50.860Z",

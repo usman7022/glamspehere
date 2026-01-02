@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Elevate your beauty game with La Palette Nude. Unlock versatile looks with 12 stunning shades, perfect for any occasion. Transform your eye makeup today!",
   "openGraph": {
     "title": "Unlock Endless Looks: Why La Palette Nude is Your Beauty Game-Changer",
+    "images": "https://m.media-amazon.com/images/I/610jJsVDBCL._SL1125_.jpg",
     "description": "Elevate your beauty game with La Palette Nude. Unlock versatile looks with 12 stunning shades, perfect for any occasion. Transform your eye makeup today!",
     "type": "article",
     "publishedTime": "2025-12-25T06:03:47.929Z",

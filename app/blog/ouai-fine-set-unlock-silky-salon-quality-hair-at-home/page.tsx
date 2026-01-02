@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock silky, salon-quality hair at home with OUAI's Fine Set. Nourish fine hair with keratin and shea butter for a luxurious, vibrant finish!",
   "openGraph": {
     "title": "OUAI Fine Set: Unlock Silky, Salon-Quality Hair at Home!",
+    "images": "https://m.media-amazon.com/images/I/51WHZwmLr1L._SL1500_.jpg",
     "description": "Unlock silky, salon-quality hair at home with OUAI's Fine Set. Nourish fine hair with keratin and shea butter for a luxurious, vibrant finish!",
     "type": "article",
     "publishedTime": "2025-12-24T13:04:16.749Z",

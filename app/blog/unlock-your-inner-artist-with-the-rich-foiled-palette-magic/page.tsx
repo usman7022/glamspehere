@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unleash your creativity with the Morphe Rich & Foiled Palette! Achieve stunning metallic eye looks with luxe mattes, shimmers, and foils in mauve and pink.",
   "openGraph": {
     "title": "Unlock Your Inner Artist with the Rich & Foiled Palette Magic!",
+    "images": "https://m.media-amazon.com/images/I/713ds4-FnFL._SL1500_.jpg",
     "description": "Unleash your creativity with the Morphe Rich & Foiled Palette! Achieve stunning metallic eye looks with luxe mattes, shimmers, and foils in mauve and pink.",
     "type": "article",
     "publishedTime": "2025-12-25T11:41:00.383Z",

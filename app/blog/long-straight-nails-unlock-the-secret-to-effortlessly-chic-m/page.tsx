@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Long Straight Nails: Unlock the Secret to Effortlessly Chic Manicures",
   "openGraph": {
     "title": "Long Straight Nails: Unlock the Secret to Effortlessly Chic Manicures",
+    "images": "https://m.media-amazon.com/images/I/81gW1UNL07L._SL1500_.jpg",
     "description": "Long Straight Nails: Unlock the Secret to Effortlessly Chic Manicures",
     "type": "article",
     "publishedTime": "2025-12-23T10:02:01.434Z",

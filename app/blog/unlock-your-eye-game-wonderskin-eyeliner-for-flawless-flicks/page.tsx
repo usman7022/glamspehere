@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Achieve flawless eyeliner flicks with Wonderskin's 1440 Longwear Deep Black Eyeliner. Waterproof, sharpenable, and smudge-proof for all-day perfection!",
   "openGraph": {
     "title": "Unlock Your Eye Game: Wonderskin Eyeliner for Flawless Flicks",
+    "images": "https://m.media-amazon.com/images/I/81yDA3hbyyL._SL1500_.jpg",
     "description": "Achieve flawless eyeliner flicks with Wonderskin's 1440 Longwear Deep Black Eyeliner. Waterproof, sharpenable, and smudge-proof for all-day perfection!",
     "type": "article",
     "publishedTime": "2025-12-24T08:03:34.517Z",

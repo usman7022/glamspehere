@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unleash Sleek Perfection: A Review of Matrix Mega Sleek Shampoo",
   "openGraph": {
     "title": "Unleash Sleek Perfection: A Review of Matrix Mega Sleek Shampoo",
+    "images": "https://m.media-amazon.com/images/I/61LBYslL2RL._SL1500_.jpg",
     "description": "Unleash Sleek Perfection: A Review of Matrix Mega Sleek Shampoo",
     "type": "article",
     "publishedTime": "2025-12-23T15:01:51.170Z",

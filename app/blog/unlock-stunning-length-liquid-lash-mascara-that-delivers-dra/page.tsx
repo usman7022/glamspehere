@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Experience dramatic length and volume with Thrive Causemetics Liquid Lash Mascara. Smudge-proof, clump-free, and vegan—your lashes will thank you!",
   "openGraph": {
     "title": "Unlock Stunning Length: Liquid Lash Mascara That Delivers Drama!",
+    "images": "https://m.media-amazon.com/images/I/61XEyq3FZ3L._SL1500_.jpg",
     "description": "Experience dramatic length and volume with Thrive Causemetics Liquid Lash Mascara. Smudge-proof, clump-free, and vegan—your lashes will thank you!",
     "type": "article",
     "publishedTime": "2025-12-24T23:01:34.554Z",

@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock Your Nail Art Potential: The Ultimate Acrylic Powder Set Review",
   "openGraph": {
     "title": "Unlock Your Nail Art Potential: The Ultimate Acrylic Powder Set Review",
+    "images": "https://m.media-amazon.com/images/I/71y1pB1OUhL._SL1500_.jpg",
     "description": "Unlock Your Nail Art Potential: The Ultimate Acrylic Powder Set Review",
     "type": "article",
     "publishedTime": "2025-12-22T18:02:03.410Z",

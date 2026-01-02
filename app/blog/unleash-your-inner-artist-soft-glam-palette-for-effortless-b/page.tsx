@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Elevate your look effortlessly with Anastasia Beverly Hills’ Soft Glam palette. Unleash your inner artist and master stunning, versatile beauty today!",
   "openGraph": {
     "title": "Unleash Your Inner Artist: Soft Glam Palette for Effortless Beauty",
+    "images": "https://m.media-amazon.com/images/I/513MjN3KNjL._SL1376_.jpg",
     "description": "Elevate your look effortlessly with Anastasia Beverly Hills’ Soft Glam palette. Unleash your inner artist and master stunning, versatile beauty today!",
     "type": "article",
     "publishedTime": "2025-12-25T01:03:21.634Z",

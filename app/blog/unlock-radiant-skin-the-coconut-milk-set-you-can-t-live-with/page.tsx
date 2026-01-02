@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock luminous skin with the Purezero Coconut Milk Shampoo & Conditioner. Hydrate, shine, and combat frizz with this vegan, cruelty-free duo!",
   "openGraph": {
     "title": "Unlock Radiant Skin: The Coconut Milk Set You Can’t Live Without!",
+    "images": "https://m.media-amazon.com/images/I/71kkdbcV86L.jpg",
     "description": "Unlock luminous skin with the Purezero Coconut Milk Shampoo & Conditioner. Hydrate, shine, and combat frizz with this vegan, cruelty-free duo!",
     "type": "article",
     "publishedTime": "2025-12-31T17:36:58.064Z",

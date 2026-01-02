@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Elevate your lash game with BUXOM’s Lash Volumizing Mascara! Experience bold, black intensity and incredible volume for eyes that mesmerize.",
   "openGraph": {
     "title": "Unlock Eye-Catching Lashes: The BUXOM Mascara Game-Changer",
+    "images": "https://m.media-amazon.com/images/I/61zS0XeyFSL._SL1500_.jpg",
     "description": "Elevate your lash game with BUXOM’s Lash Volumizing Mascara! Experience bold, black intensity and incredible volume for eyes that mesmerize.",
     "type": "article",
     "publishedTime": "2025-12-24T17:02:14.232Z",

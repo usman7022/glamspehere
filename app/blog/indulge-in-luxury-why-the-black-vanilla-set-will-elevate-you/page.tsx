@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Elevate your hair care with Carol's Daughter Black Vanilla Set. Experience hydration and repair for dry, damaged curls—luxury for your daily routine!",
   "openGraph": {
     "title": "Indulge in Luxury: Why the Black Vanilla Set Will Elevate Your Routine",
+    "images": "https://m.media-amazon.com/images/I/81XgrCzSZmL.jpg",
     "description": "Elevate your hair care with Carol's Daughter Black Vanilla Set. Experience hydration and repair for dry, damaged curls—luxury for your daily routine!",
     "type": "article",
     "publishedTime": "2025-12-26T15:53:53.704Z",

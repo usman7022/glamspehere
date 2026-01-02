@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unleash Your Inner Artist: Nail Art Brush Set for Stunning Designs",
   "openGraph": {
     "title": "Unleash Your Inner Artist: Nail Art Brush Set for Stunning Designs",
+    "images": "https://m.media-amazon.com/images/I/81Ca4T6Uh9L._SL1500_.jpg",
     "description": "Unleash Your Inner Artist: Nail Art Brush Set for Stunning Designs",
     "type": "article",
     "publishedTime": "2025-12-22T10:02:10.297Z",

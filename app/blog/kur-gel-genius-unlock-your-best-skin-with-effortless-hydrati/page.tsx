@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock radiant skin effortlessly with LONDONTOWN's Kur Gel Genius! Experience superior hydration and a flawless finish in just one simple step.",
   "openGraph": {
     "title": "Kur Gel Genius: Unlock Your Best Skin with Effortless Hydration!",
+    "images": "https://m.media-amazon.com/images/I/71g0fUmWSUL.jpg",
     "description": "Unlock radiant skin effortlessly with LONDONTOWN's Kur Gel Genius! Experience superior hydration and a flawless finish in just one simple step.",
     "type": "article",
     "publishedTime": "2025-12-26T14:26:06.165Z",

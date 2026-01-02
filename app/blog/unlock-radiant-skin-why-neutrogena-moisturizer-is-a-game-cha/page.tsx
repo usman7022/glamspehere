@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock your glow with Neutrogena's retinol moisturizer! Achieve youthful, radiant skin while enjoying sheer coverage and sun protection in one step.",
   "openGraph": {
     "title": "Unlock Radiant Skin: Why Neutrogena Moisturizer is a Game-Changer",
+    "images": "https://m.media-amazon.com/images/I/61xdGtF3gCL.jpg",
     "description": "Unlock your glow with Neutrogena's retinol moisturizer! Achieve youthful, radiant skin while enjoying sheer coverage and sun protection in one step.",
     "type": "article",
     "publishedTime": "2025-12-25T20:23:41.360Z",

@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Master the Art of Brows: The Brow Pencil That Elevates Your Look",
   "openGraph": {
     "title": "Master the Art of Brows: The Brow Pencil That Elevates Your Look",
+    "images": "https://m.media-amazon.com/images/I/51nnm3xrl9L._AC_SL1500_.jpg",
     "description": "Master the Art of Brows: The Brow Pencil That Elevates Your Look",
     "type": "article",
     "publishedTime": "2025-12-22T02:43:52.568Z",

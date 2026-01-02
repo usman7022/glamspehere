@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Experience vibrant, glossy hair with COLOR WOW's Dream Clean Duo. Achieve hydration and shine effortlessly with sulfate-free shampoo and conditioner!",
   "openGraph": {
     "title": "Unlock Effortless Shine: The Dream Clean Duo That Transforms Your Skin",
+    "images": "https://m.media-amazon.com/images/I/71elGZjqoGL.jpg",
     "description": "Experience vibrant, glossy hair with COLOR WOW's Dream Clean Duo. Achieve hydration and shine effortlessly with sulfate-free shampoo and conditioner!",
     "type": "article",
     "publishedTime": "2025-12-25T23:01:32.311Z",

@@ -8,8 +8,7 @@ export const metadata: Metadata = {
   "title": "Bright Eyes Ahead: Unveiling the Magic of Luminous Eye Corrector",
   "description": "Brighten your eyes and banish dark circles with DRMTLGY’s Luminous Eye Corrector. Fight aging while hydrating with this tinted, SPF 41 solution!",
   "openGraph": {
-    "title": "Bright Eyes Ahead: Unveiling the Magic of Luminous Eye Corrector",
-    "description": "Brighten your eyes and banish dark circles with DRMTLGY’s Luminous Eye Corrector. Fight aging while hydrating with this tinted, SPF 41 solution!",
+    "title": "Bright Eyes Ahead: Unveiling the Magic of Luminous Eye Corrector",     "images": "https://m.media-amazon.com/images/I/61f+2yILldL._SL1500_.jpg",    "description": "Brighten your eyes and banish dark circles with DRMTLGY’s Luminous Eye Corrector. Fight aging while hydrating with this tinted, SPF 41 solution!",
     "type": "article",
     "publishedTime": "2025-12-24T20:02:03.647Z",
     "authors": [

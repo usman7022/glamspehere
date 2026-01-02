@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Ocean Timber Set: Elevate Your Outdoor Space with Coastal Charm",
   "openGraph": {
     "title": "Ocean Timber Set: Elevate Your Outdoor Space with Coastal Charm",
+    "images": "https://m.media-amazon.com/images/I/61VmQbmfD5L._SL1500_.jpg",
     "description": "Ocean Timber Set: Elevate Your Outdoor Space with Coastal Charm",
     "type": "article",
     "publishedTime": "2025-12-23T19:01:48.086Z",

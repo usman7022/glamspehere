@@ -8,8 +8,7 @@ export const metadata: Metadata = {
   "title": "Dual-Ended Eyeshadow: Unlock Double the Glam with One Product!",
   "description": "Unlock vibrant, long-lasting eye looks with LANGMANNI’s dual-ended eyeshadow sticks! Enjoy silky smooth application and versatile matte/shimmer finishes all ...",
   "openGraph": {
-    "title": "Dual-Ended Eyeshadow: Unlock Double the Glam with One Product!",
-    "description": "Unlock vibrant, long-lasting eye looks with LANGMANNI’s dual-ended eyeshadow sticks! Enjoy silky smooth application and versatile matte/shimmer finishes all ...",
+    "title": "Dual-Ended Eyeshadow: Unlock Double the Glam with One Product!",     "images": "https://m.media-amazon.com/images/I/81wRX97Rx2L._SL1500_.jpg",    "description": "Unlock vibrant, long-lasting eye looks with LANGMANNI’s dual-ended eyeshadow sticks! Enjoy silky smooth application and versatile matte/shimmer finishes all ...",
     "type": "article",
     "publishedTime": "2025-12-25T13:01:51.264Z",
     "authors": [

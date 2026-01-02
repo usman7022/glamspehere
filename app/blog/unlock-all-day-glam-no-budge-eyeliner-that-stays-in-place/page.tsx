@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock All-Day Glam: No Budge Eyeliner That Stays in Place!",
   "openGraph": {
     "title": "Unlock All-Day Glam: No Budge Eyeliner That Stays in Place!",
+    "images": "https://m.media-amazon.com/images/I/61JmCL+oujL._SX425_.jpg",
     "description": "Unlock All-Day Glam: No Budge Eyeliner That Stays in Place!",
     "type": "article",
     "publishedTime": "2025-12-22T21:01:53.852Z",

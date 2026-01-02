@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock your nail art potential with our 12-color pen set! Create stunning designs effortlessly at home and elevate your DIY manicure game today!",
   "openGraph": {
     "title": "Unleash Your Creativity: Nail Art Pens Set for Stunning Masterpieces",
+    "images": "https://m.media-amazon.com/images/I/610H24rzA2L._SL1000_.jpg",
     "description": "Unlock your nail art potential with our 12-color pen set! Create stunning designs effortlessly at home and elevate your DIY manicure game today!",
     "type": "article",
     "publishedTime": "2025-12-25T00:03:19.928Z",

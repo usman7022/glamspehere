@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Medium Almond Tips: Elevate Your Nail Game with Effortless Elegance",
   "openGraph": {
     "title": "Medium Almond Tips: Elevate Your Nail Game with Effortless Elegance",
+    "images": "https://m.media-amazon.com/images/I/716xj-gDBPL._SX425_.jpg",
     "description": "Medium Almond Tips: Elevate Your Nail Game with Effortless Elegance",
     "type": "article",
     "publishedTime": "2025-12-23T16:02:03.018Z",

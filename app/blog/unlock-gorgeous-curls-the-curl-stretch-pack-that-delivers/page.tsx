@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock your curl potential with SheaMoisture’s Curl Stretch Pack! Hydrate, repair, and minimize shrinkage for beautiful, defined curls that last.",
   "openGraph": {
     "title": "Unlock Gorgeous Curls: The Curl Stretch Pack That Delivers!",
+    "images": "https://m.media-amazon.com/images/I/81OQhhBOFtL.jpg",
     "description": "Unlock your curl potential with SheaMoisture’s Curl Stretch Pack! Hydrate, repair, and minimize shrinkage for beautiful, defined curls that last.",
     "type": "article",
     "publishedTime": "2025-12-26T11:24:03.354Z",

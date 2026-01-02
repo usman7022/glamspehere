@@ -8,8 +8,7 @@ export const metadata: Metadata = {
   "title": "Double Your Style: Unleashing the Power of Mitch Double Hitter",
   "description": "Elevate your grooming game with MITCH Double Hitter. This 2-in-1 shampoo and conditioner cleanses and nourishes, perfect for any man’s hair care routine!",
   "openGraph": {
-    "title": "Double Your Style: Unleashing the Power of Mitch Double Hitter",
-    "description": "Elevate your grooming game with MITCH Double Hitter. This 2-in-1 shampoo and conditioner cleanses and nourishes, perfect for any man’s hair care routine!",
+    "title": "Double Your Style: Unleashing the Power of Mitch Double Hitter",     "images": "https://m.media-amazon.com/images/I/516QgZaFT2L.jpg",    "description": "Elevate your grooming game with MITCH Double Hitter. This 2-in-1 shampoo and conditioner cleanses and nourishes, perfect for any man’s hair care routine!",
     "type": "article",
     "publishedTime": "2025-12-30T17:36:38.234Z",
     "authors": [

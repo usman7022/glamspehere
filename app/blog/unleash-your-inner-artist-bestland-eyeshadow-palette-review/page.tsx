@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unleash Your Inner Artist: BestLand Eyeshadow Palette Review",
   "openGraph": {
     "title": "Unleash Your Inner Artist: BestLand Eyeshadow Palette Review",
+    "images": "https://m.media-amazon.com/images/I/61j6kx0t-BL._SL1500_.jpg",
     "description": "Unleash Your Inner Artist: BestLand Eyeshadow Palette Review",
     "type": "article",
     "publishedTime": "2025-12-23T18:01:54.320Z",

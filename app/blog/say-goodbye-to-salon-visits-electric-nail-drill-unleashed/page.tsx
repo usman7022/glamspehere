@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unleash salon-quality nails at home with our electric nail drill kit! Enjoy low noise and precision for perfect acrylics, gel, and polished perfection.",
   "openGraph": {
     "title": "Say Goodbye to Salon Visits: Electric Nail Drill Unleashed!",
+    "images": "https://m.media-amazon.com/images/I/71AX6Ib2rmL._SL1500_.jpg",
     "description": "Unleash salon-quality nails at home with our electric nail drill kit! Enjoy low noise and precision for perfect acrylics, gel, and polished perfection.",
     "type": "article",
     "publishedTime": "2025-12-24T11:02:00.675Z",

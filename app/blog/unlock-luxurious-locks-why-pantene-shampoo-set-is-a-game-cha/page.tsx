@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock Luxurious Locks: Why Pantene Shampoo Set is a Game-Changer",
   "openGraph": {
     "title": "Unlock Luxurious Locks: Why Pantene Shampoo Set is a Game-Changer",
+    "images": "https://m.media-amazon.com/images/I/71yWq5HzAhL._SL1500_.jpg",
     "description": "Unlock Luxurious Locks: Why Pantene Shampoo Set is a Game-Changer",
     "type": "article",
     "publishedTime": "2025-12-22T17:01:43.816Z",

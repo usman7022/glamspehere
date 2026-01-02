@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock Effortless Elegance: Retractable Gel Eyeliner Review",
   "openGraph": {
     "title": "Unlock Effortless Elegance: Retractable Gel Eyeliner Review",
+    "images": "https://m.media-amazon.com/images/I/61JLhiKMnJL._SL1500_.jpg",
     "description": "Unlock Effortless Elegance: Retractable Gel Eyeliner Review",
     "type": "article",
     "publishedTime": "2025-12-22T16:02:38.974Z",

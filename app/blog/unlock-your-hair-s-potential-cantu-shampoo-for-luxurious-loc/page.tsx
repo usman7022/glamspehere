@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize your natural hair with Cantu Shampoo & Conditioner. Experience supreme moisture and bounce for luxurious, healthy locks every day!",
   "openGraph": {
     "title": "Unlock Your Hair's Potential: Cantu Shampoo for Luxurious Locks",
+    "images": "https://m.media-amazon.com/images/I/81VXFMkfg-L.jpg",
     "description": "Revitalize your natural hair with Cantu Shampoo & Conditioner. Experience supreme moisture and bounce for luxurious, healthy locks every day!",
     "type": "article",
     "publishedTime": "2025-12-29T13:41:42.473Z",

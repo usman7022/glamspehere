@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock longer, fuller lashes with LiLash XL Serum! Safe for sensitive eyes and compatible with contacts and lash extensions. Vegan, cruelty-free, and effective!",
   "openGraph": {
     "title": "LiLash Serum: The Secret to Luscious Lashes You Can’t Ignore!",
+    "images": "https://m.media-amazon.com/images/I/613NSqvO3OL._SL1481_.jpg",
     "description": "Unlock longer, fuller lashes with LiLash XL Serum! Safe for sensitive eyes and compatible with contacts and lash extensions. Vegan, cruelty-free, and effective!",
     "type": "article",
     "publishedTime": "2025-12-25T03:03:36.824Z",

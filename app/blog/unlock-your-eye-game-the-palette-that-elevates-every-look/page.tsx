@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock Your Eye Game: The Palette That Elevates Every Look",
   "openGraph": {
     "title": "Unlock Your Eye Game: The Palette That Elevates Every Look",
+    "images": "https://m.media-amazon.com/images/I/61XyxReT2uL._SX425_.jpg",
     "description": "Unlock Your Eye Game: The Palette That Elevates Every Look",
     "type": "article",
     "publishedTime": "2025-12-22T22:01:39.538Z",

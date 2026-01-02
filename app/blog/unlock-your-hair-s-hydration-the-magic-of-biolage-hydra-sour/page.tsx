@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize your dry hair with Biolage Hydra Source Shampoo & Conditioning Balm, packed with fermented aloe and hyaluronic acid for deep hydration.",
   "openGraph": {
     "title": "Unlock Your Hair's Hydration: The Magic of Biolage Hydra Source",
+    "images": "https://m.media-amazon.com/images/I/71RwoYWN2ML.jpg",
     "description": "Revitalize your dry hair with Biolage Hydra Source Shampoo & Conditioning Balm, packed with fermented aloe and hyaluronic acid for deep hydration.",
     "type": "article",
     "publishedTime": "2025-12-26T10:02:19.870Z",

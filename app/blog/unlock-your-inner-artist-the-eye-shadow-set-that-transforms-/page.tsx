@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unleash your creativity with the 8Pcs Cream Eye Shadow Set! Effortlessly elevate your makeup game with stunning shades designed for timeless beauty.",
   "openGraph": {
     "title": "Unlock Your Inner Artist: The Eye Shadow Set That Transforms Your Look",
+    "images": "https://m.media-amazon.com/images/I/71JjfZLvkIL._SL1000_.jpg",
     "description": "Unleash your creativity with the 8Pcs Cream Eye Shadow Set! Effortlessly elevate your makeup game with stunning shades designed for timeless beauty.",
     "type": "article",
     "publishedTime": "2025-12-24T12:04:16.192Z",

@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Transform dry hair into silky smooth strands with Raw Sugar's Moisture Smoothie Duo. Infused with coconut oil and agave for deep hydration and nourishment.",
   "openGraph": {
     "title": "Unlock Silky Smooth Skin: The Magic of Moisture Smoothie Duo",
+    "images": "https://m.media-amazon.com/images/I/71GeuQlQecL._SL1500_.jpg",
     "description": "Transform dry hair into silky smooth strands with Raw Sugar's Moisture Smoothie Duo. Infused with coconut oil and agave for deep hydration and nourishment.",
     "type": "article",
     "publishedTime": "2025-12-25T09:08:19.237Z",

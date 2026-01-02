@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Speed Up Your Nail Game: The Acrylic Powders Speed Review",
   "openGraph": {
     "title": "Speed Up Your Nail Game: The Acrylic Powders Speed Review",
+    "images": "https://m.media-amazon.com/images/I/419-wp13UrL._SL1280_.jpg",
     "description": "Speed Up Your Nail Game: The Acrylic Powders Speed Review",
     "type": "article",
     "publishedTime": "2025-12-23T13:01:57.048Z",

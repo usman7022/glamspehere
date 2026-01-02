@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Elevate your nail game effortlessly with Orly Builder In A Bottle! Achieve salon-quality extensions and repairs at home for stunning, long-lasting results.",
   "openGraph": {
     "title": "Unleash Your Creativity: Builder In A Bottle for Effortless Projects",
+    "images": "https://m.media-amazon.com/images/I/41oI+G5SGBL.jpg",
     "description": "Elevate your nail game effortlessly with Orly Builder In A Bottle! Achieve salon-quality extensions and repairs at home for stunning, long-lasting results.",
     "type": "article",
     "publishedTime": "2025-12-26T15:26:39.018Z",

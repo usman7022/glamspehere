@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Stila Liquid Liner: Unleash Your Eye Artistry with Precision Perfection",
   "openGraph": {
     "title": "Stila Liquid Liner: Unleash Your Eye Artistry with Precision Perfection",
+    "images": "https://m.media-amazon.com/images/I/516q20ROi0L._SL1500_.jpg",
     "description": "Stila Liquid Liner: Unleash Your Eye Artistry with Precision Perfection",
     "type": "article",
     "publishedTime": "2025-12-22T19:01:53.251Z",

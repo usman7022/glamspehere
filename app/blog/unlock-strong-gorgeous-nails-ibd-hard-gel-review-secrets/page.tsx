@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock Strong, Gorgeous Nails: ibd Hard Gel Review & Secrets",
   "openGraph": {
     "title": "Unlock Strong, Gorgeous Nails: ibd Hard Gel Review & Secrets",
+    "images": "https://m.media-amazon.com/images/I/61rr-5jbuxL._SL1000_.jpg",
     "description": "Unlock Strong, Gorgeous Nails: ibd Hard Gel Review & Secrets",
     "type": "article",
     "publishedTime": "2025-12-22T20:02:16.099Z",

@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Brighten Your Gaze: Unveiling the Magic of Under Eye Brightener",
   "openGraph": {
     "title": "Brighten Your Gaze: Unveiling the Magic of Under Eye Brightener",
+     "images": "https://m.media-amazon.com/images/I/61EFwUap2wL._SL1500_.jpg",
     "description": "Brighten Your Gaze: Unveiling the Magic of Under Eye Brightener",
     "type": "article",
     "publishedTime": "2025-12-23T03:01:52.742Z",

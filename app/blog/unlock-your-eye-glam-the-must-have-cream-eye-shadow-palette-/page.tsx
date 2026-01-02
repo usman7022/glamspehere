@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Elevate your eye game with the versatile 8 Colors Cream Eye Shadow Palette. Achieve stunning looks—matte to shimmer—for a radiant, youthful glow!",
   "openGraph": {
     "title": "Unlock Your Eye Glam: The Must-Have Cream Eye Shadow Palette Review",
+    "images": "https://m.media-amazon.com/images/I/71l0RSD6odL._SL1000_.jpg",
     "description": "Elevate your eye game with the versatile 8 Colors Cream Eye Shadow Palette. Achieve stunning looks—matte to shimmer—for a radiant, youthful glow!",
     "type": "article",
     "publishedTime": "2025-12-25T09:22:35.417Z",

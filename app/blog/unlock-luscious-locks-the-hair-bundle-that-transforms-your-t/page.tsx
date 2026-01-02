@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock Luscious Locks: The Hair Bundle That Transforms Your Tresses",
   "openGraph": {
     "title": "Unlock Luscious Locks: The Hair Bundle That Transforms Your Tresses",
+    "images": "https://m.media-amazon.com/images/I/81RqYqYDezL._SL1500_.jpg",
     "description": "Unlock Luscious Locks: The Hair Bundle That Transforms Your Tresses",
     "type": "article",
     "publishedTime": "2025-12-23T12:01:52.990Z",

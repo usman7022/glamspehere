@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Elevate Your Manicure: The Nail Tips That Transform Your Look!",
   "openGraph": {
     "title": "Elevate Your Manicure: The Nail Tips That Transform Your Look!",
+     "images": "https://m.media-amazon.com/images/I/71UAZTjBEmL._SL1500_.jpg",
     "description": "Elevate Your Manicure: The Nail Tips That Transform Your Look!",
     "type": "article",
     "publishedTime": "2025-12-23T00:02:08.350Z",

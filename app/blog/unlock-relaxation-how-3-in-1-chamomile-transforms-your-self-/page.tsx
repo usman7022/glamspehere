@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock Relaxation: How 3-in-1 Chamomile Transforms Your Self-Care Routine",
   "openGraph": {
     "title": "Unlock Relaxation: How 3-in-1 Chamomile Transforms Your Self-Care Routine",
+    "images": "https://m.media-amazon.com/images/I/71m1w8vIlVL._SL1500_.jpg",
     "description": "Unlock Relaxation: How 3-in-1 Chamomile Transforms Your Self-Care Routine",
     "type": "article",
     "publishedTime": "2025-12-23T02:02:04.427Z",

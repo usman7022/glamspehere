@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Final Verdict.",
   "openGraph": {
     "title": "\"Discover LAURA GELLER's Best of the Best Baked Palette: Tuscan Dreams\"",
+     "images": "https://m.media-amazon.com/images/I/81XgV55haKL._SL1500_.jpg",
     "description": "Final Verdict.",
     "type": "article",
     "publishedTime": "2025-12-21T21:39:43.490Z",

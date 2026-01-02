@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Elevate your at-home manicure with the SUNUV UV Light! Achieve flawless, salon-quality gel nails effortlessly using its smart auto sensor and timer settings.",
   "openGraph": {
     "title": "Achieve Salon-Quality Nails at Home: SUNUV UV Light Review",
+     "images": "https://m.media-amazon.com/images/I/51inODC-+vL.jpg",
     "description": "Elevate your at-home manicure with the SUNUV UV Light! Achieve flawless, salon-quality gel nails effortlessly using its smart auto sensor and timer settings.",
     "type": "article",
     "publishedTime": "2025-12-25T16:03:27.789Z",

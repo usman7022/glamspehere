@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock Your Nail Game: The Poly Extension Gel Kit Review",
   "openGraph": {
     "title": "Unlock Your Nail Game: The Poly Extension Gel Kit Review",
+    "images": "https://m.media-amazon.com/images/I/71Q52dIT4IL._SL1500_.jpg",
     "description": "Unlock Your Nail Game: The Poly Extension Gel Kit Review",
     "type": "article",
     "publishedTime": "2025-12-22T14:02:18.951Z",

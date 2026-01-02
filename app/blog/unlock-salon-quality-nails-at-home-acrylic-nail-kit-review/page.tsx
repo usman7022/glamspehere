@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Achieve salon-quality nails at home with our all-in-one acrylic nail kit! Perfect for beginners, complete with drill, UV light, and dazzling decorations!",
   "openGraph": {
     "title": "Unlock Salon-Quality Nails at Home: Acrylic Nail Kit Review",
+    "images": "https://m.media-amazon.com/images/I/81bsCWC7HWL._SL1500_.jpg",
     "description": "Achieve salon-quality nails at home with our all-in-one acrylic nail kit! Perfect for beginners, complete with drill, UV light, and dazzling decorations!",
     "type": "article",
     "publishedTime": "2025-12-24T07:02:19.783Z",

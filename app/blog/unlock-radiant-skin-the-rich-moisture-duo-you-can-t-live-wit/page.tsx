@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize your dry hair with TRESemmé's Rich Moisture Duo. Infused with Vitamin E and Biotin, experience luscious, hydrated locks every day!",
   "openGraph": {
     "title": "Unlock Radiant Skin: The Rich Moisture Duo You Can't Live Without",
+    "images": "https://m.media-amazon.com/images/I/71Hb3+TWXkL._SL1500_.jpg",
     "description": "Revitalize your dry hair with TRESemmé's Rich Moisture Duo. Infused with Vitamin E and Biotin, experience luscious, hydrated locks every day!",
     "type": "article",
     "publishedTime": "2025-12-24T06:04:16.069Z",

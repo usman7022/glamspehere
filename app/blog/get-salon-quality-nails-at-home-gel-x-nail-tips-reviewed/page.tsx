@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Achieve stunning salon-quality nails at home with Apres Gel-X® tips. Explore 500 premium almond options for a flawless, durable manicure today!",
   "openGraph": {
     "title": "Get Salon-Quality Nails at Home: Gel-X Nail Tips Reviewed",
+    "images": "https://m.media-amazon.com/images/I/61WlYGWHyvL.jpg",
     "description": "Achieve stunning salon-quality nails at home with Apres Gel-X® tips. Explore 500 premium almond options for a flawless, durable manicure today!",
     "type": "article",
     "publishedTime": "2025-12-26T15:59:26.641Z",

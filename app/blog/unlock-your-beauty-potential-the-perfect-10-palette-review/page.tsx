@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Elevate your eye game with e.l.f.'s Perfect 10 Palette! Experience stunning ultra-pigmented shades that unleash your inner beauty, cruelty-free and vegan.",
   "openGraph": {
     "title": "Unlock Your Beauty Potential: The Perfect 10 Palette Review",
+    "images": "https://m.media-amazon.com/images/I/71sh9P-6UYL.jpg",
     "description": "Elevate your eye game with e.l.f.'s Perfect 10 Palette! Experience stunning ultra-pigmented shades that unleash your inner beauty, cruelty-free and vegan.",
     "type": "article",
     "publishedTime": "2025-12-26T01:01:56.774Z",

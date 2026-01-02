@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock bold style with Jofay's Cat Eye Press on Nails! Achieve stunning, colorful manicures effortlessly—perfect for a dazzling look this Christmas!",
   "openGraph": {
     "title": "Cat Eye Nails: Unlock the Secret to Stunning, Daring Manicures!",
+     "images": "https://m.media-amazon.com/images/I/71fpYVYo8tL._SX425_.jpg",
     "description": "Unlock bold style with Jofay's Cat Eye Press on Nails! Achieve stunning, colorful manicures effortlessly—perfect for a dazzling look this Christmas!",
     "type": "article",
     "publishedTime": "2025-12-23T21:02:06.152Z",

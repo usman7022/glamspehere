@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock your lash potential with RevitaLash Advanced! Experience fuller, healthier lashes with this physician-developed, cruelty-free conditioner in just weeks.",
   "openGraph": {
     "title": "Unlock Lush Lashes: The Eyelash Conditioner That Changes Everything!",
+    "images": "https://m.media-amazon.com/images/I/61qM+be5q8L._SL1500_.jpg",
     "description": "Unlock your lash potential with RevitaLash Advanced! Experience fuller, healthier lashes with this physician-developed, cruelty-free conditioner in just weeks.",
     "type": "article",
     "publishedTime": "2025-12-24T01:03:37.259Z",

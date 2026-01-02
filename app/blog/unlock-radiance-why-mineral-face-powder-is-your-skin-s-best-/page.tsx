@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unveil your skin's natural glow with Physicians Formula Mineral Wear. Enjoy breathable, light coverage that's perfect for sensitive skin. Radiate confidence!",
   "openGraph": {
     "title": "Unlock Radiance: Why Mineral Face Powder is Your Skin's Best Friend",
+    "images": "https://m.media-amazon.com/images/I/81HVa7fMtaL.jpg",
     "description": "Unveil your skin's natural glow with Physicians Formula Mineral Wear. Enjoy breathable, light coverage that's perfect for sensitive skin. Radiate confidence!",
     "type": "article",
     "publishedTime": "2025-12-25T22:01:44.430Z",

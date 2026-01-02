@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Achieve salon-perfect nails at home with our pre-shaped short almond gel tips. Effortlessly chic and versatile, perfect for a stylish DIY manicure!",
   "openGraph": {
     "title": "Short Almond Tips: The Secret to Effortlessly Chic Nail Perfection",
+    "images": "https://m.media-amazon.com/images/I/816lRCaVecL._SL1500_.jpg",
     "description": "Achieve salon-perfect nails at home with our pre-shaped short almond gel tips. Effortlessly chic and versatile, perfect for a stylish DIY manicure!",
     "type": "article",
     "publishedTime": "2025-12-23T23:03:39.376Z",

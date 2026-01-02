@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Elevate your makeup game with Urban Decay's Naked 2 Basics Palette. Effortlessly blend cool-tone nudes for stunning eyes, contours, and brows on-the-go!",
   "openGraph": {
     "title": "Unlock Effortless Elegance: Naked 2 Basics Palette Review",
+    "images": "https://m.media-amazon.com/images/I/6100m-v7caL._SL1500_.jpg",
     "description": "Elevate your makeup game with Urban Decay's Naked 2 Basics Palette. Effortlessly blend cool-tone nudes for stunning eyes, contours, and brows on-the-go!",
     "type": "article",
     "publishedTime": "2025-12-24T00:04:07.569Z",

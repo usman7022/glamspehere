@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock stunning lashes with Honest Beauty's 2-in-1 Extreme Length Mascara. Experience lengthening and volumizing power that’s safe for sensitive eyes!",
   "openGraph": {
     "title": "Unlock All-Day Drama: Why Extreme Length Mascara Is Your New Must-Have",
+    "images": "https://m.media-amazon.com/images/I/71NrksH227L.jpg",
     "description": "Unlock stunning lashes with Honest Beauty's 2-in-1 Extreme Length Mascara. Experience lengthening and volumizing power that’s safe for sensitive eyes!",
     "type": "article",
     "publishedTime": "2025-12-25T21:02:12.796Z",

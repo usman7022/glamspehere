@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Instant Nail Art: How Nail Strips Turn Your Tips into Masterpieces",
   "openGraph": {
     "title": "Instant Nail Art: How Nail Strips Turn Your Tips into Masterpieces",
+    "images": "https://m.media-amazon.com/images/I/61-4iDzr0IL._SL1500_.jpg",
     "description": "Instant Nail Art: How Nail Strips Turn Your Tips into Masterpieces",
     "type": "article",
     "publishedTime": "2025-12-23T17:02:18.396Z",

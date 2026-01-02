@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize your hair with iRESTORE Biotin Conditioner! Boost growth and volume while nourishing damaged locks with ginseng and argan oil. Embrace radiant hair!",
   "openGraph": {
     "title": "Revive Your Locks: Unleash Radiance with Biotin Hair Conditioner",
+    "images": "https://m.media-amazon.com/images/I/71JrMXLsDPL._SL1500_.jpg",
     "description": "Revitalize your hair with iRESTORE Biotin Conditioner! Boost growth and volume while nourishing damaged locks with ginseng and argan oil. Embrace radiant hair!",
     "type": "article",
     "publishedTime": "2025-12-25T14:03:07.399Z",

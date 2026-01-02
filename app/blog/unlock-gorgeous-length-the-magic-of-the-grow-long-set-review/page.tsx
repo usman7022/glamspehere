@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock Gorgeous Length: The Magic of the Grow Long Set Review",
   "openGraph": {
     "title": "Unlock Gorgeous Length: The Magic of the Grow Long Set Review",
+    "images": "https://m.media-amazon.com/images/I/81Un4u57qJL._SL1500_.jpg",
     "description": "Unlock Gorgeous Length: The Magic of the Grow Long Set Review",
     "type": "article",
     "publishedTime": "2025-12-22T13:02:06.453Z",

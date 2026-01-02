@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unleash Salon-Quality Nails: Our Nail Drill Kit Review Revealed",
   "openGraph": {
     "title": "Unleash Salon-Quality Nails: Our Nail Drill Kit Review Revealed",
+    "images": "https://m.media-amazon.com/images/I/71jKmMtvsZL._SL1500_.jpg",
     "description": "Unleash Salon-Quality Nails: Our Nail Drill Kit Review Revealed",
     "type": "article",
     "publishedTime": "2025-12-22T11:02:00.551Z",

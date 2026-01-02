@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize your hair with Wella's Invigo Brilliance Set. Achieve vibrant, color-protected locks that shine brilliantly. Experience salon-quality results at h...",
   "openGraph": {
     "title": "Unlock Radiant Hair: The Wella Brilliance Set Review You Can't Miss!",
+    "images": "https://m.media-amazon.com/images/I/51vI3TdvZiL._SL1500_.jpg",
     "description": "Revitalize your hair with Wella's Invigo Brilliance Set. Achieve vibrant, color-protected locks that shine brilliantly. Experience salon-quality results at h...",
     "type": "article",
     "publishedTime": "2025-12-25T15:01:50.532Z",

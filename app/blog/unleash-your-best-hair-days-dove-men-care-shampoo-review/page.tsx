@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize your hair with Dove Men+Care's 2-in-1 shampoo. Experience thick, strong locks from root to tip, fortified with calcium for lasting strength!",
   "openGraph": {
     "title": "Unleash Your Best Hair Days: Dove Men+Care Shampoo Review",
+    "images": "https://m.media-amazon.com/images/I/71Wo3O+idPL.jpg",
     "description": "Revitalize your hair with Dove Men+Care's 2-in-1 shampoo. Experience thick, strong locks from root to tip, fortified with calcium for lasting strength!",
     "type": "article",
     "publishedTime": "2025-12-26T19:24:09.872Z",

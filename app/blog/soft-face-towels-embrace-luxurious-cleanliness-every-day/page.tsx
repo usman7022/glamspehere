@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Experience the softness of Winner Soft Face Towels! Perfect for sensitive skin, these 100% biobased, unscented wipes offer luxurious cleanliness daily.",
   "openGraph": {
     "title": "Soft Face Towels: Embrace Luxurious Cleanliness Every Day!",
+    "images": "https://m.media-amazon.com/images/I/71vgil0luIL.jpg",
     "description": "Experience the softness of Winner Soft Face Towels! Perfect for sensitive skin, these 100% biobased, unscented wipes offer luxurious cleanliness daily.",
     "type": "article",
     "publishedTime": "2025-12-31T17:04:42.526Z",

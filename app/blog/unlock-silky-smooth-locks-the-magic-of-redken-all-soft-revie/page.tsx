@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize dry, brittle hair with Redken All Soft! Experience incredible softness and shine infused with nourishing argan oil for a luxurious transformation.",
   "openGraph": {
     "title": "Unlock Silky Smooth Locks: The Magic of Redken All Soft Reviewed",
+    "images": "https://m.media-amazon.com/images/I/71ryZl23VLL._SL1500_.jpg",
     "description": "Revitalize dry, brittle hair with Redken All Soft! Experience incredible softness and shine infused with nourishing argan oil for a luxurious transformation.",
     "type": "article",
     "publishedTime": "2025-12-24T18:02:34.839Z",

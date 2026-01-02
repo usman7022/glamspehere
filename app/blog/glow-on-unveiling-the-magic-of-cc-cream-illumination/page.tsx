@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unleash your glow with IT Cosmetics CC+ Cream Illumination! Achieve radiant, full coverage while combating aging—SPF 50+ protection for perfect skin.",
   "openGraph": {
     "title": "Glow On: Unveiling the Magic of CC+ Cream Illumination",
+    "images": "https://m.media-amazon.com/images/I/61mKtngf0jL.jpg",
     "description": "Unleash your glow with IT Cosmetics CC+ Cream Illumination! Achieve radiant, full coverage while combating aging—SPF 50+ protection for perfect skin.",
     "type": "article",
     "publishedTime": "2025-12-26T17:02:12.916Z",

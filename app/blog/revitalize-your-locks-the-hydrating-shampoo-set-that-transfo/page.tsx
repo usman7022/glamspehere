@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize dry, damaged hair with Acure's Ultra Hydrating Shampoo and Conditioner set. Experience deep moisture and shine for all hair types—100% vegan!",
   "openGraph": {
     "title": "Revitalize Your Locks: The Hydrating Shampoo Set That Transforms!",
+    "images": "https://m.media-amazon.com/images/I/51JflNWJu4L.jpg",
     "description": "Revitalize dry, damaged hair with Acure's Ultra Hydrating Shampoo and Conditioner set. Experience deep moisture and shine for all hair types—100% vegan!",
     "type": "article",
     "publishedTime": "2025-12-26T02:02:14.713Z",

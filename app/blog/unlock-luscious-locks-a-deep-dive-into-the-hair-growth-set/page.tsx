@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize your hair with our Rosemary & Biotin Shampoo and Conditioner set. Boost thickness, strengthen strands, and nourish your scalp for luscious locks!",
   "openGraph": {
     "title": "Unlock Luscious Locks: A Deep Dive into the Hair Growth Set",
+    "images": "https://m.media-amazon.com/images/I/71UKhp9Lf+L.jpg",
     "description": "Revitalize your hair with our Rosemary & Biotin Shampoo and Conditioner set. Boost thickness, strengthen strands, and nourish your scalp for luscious locks!",
     "type": "article",
     "publishedTime": "2025-12-26T11:13:49.299Z",

@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unleash captivating volume and lift with Lancôme's Lash Idôle Mascara. Experience smudge-proof beauty that lasts up to 24 hours for unforgettable lashes!",
   "openGraph": {
     "title": "Unlock Stunning Lashes: The Magic of Lash Idôle Mascara Review",
+    "images": "https://m.media-amazon.com/images/I/61jh-r2MLkL._SL1500_.jpg",
     "description": "Unleash captivating volume and lift with Lancôme's Lash Idôle Mascara. Experience smudge-proof beauty that lasts up to 24 hours for unforgettable lashes!",
     "type": "article",
     "publishedTime": "2025-12-24T05:02:05.787Z",

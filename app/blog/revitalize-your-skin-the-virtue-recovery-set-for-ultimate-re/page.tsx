@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Revitalize your hair with the Virtue Recovery Set. Hydrate and renew damaged strands for soft, lustrous locks—all while keeping your color safe!",
   "openGraph": {
     "title": "Revitalize Your Skin: The Virtue Recovery Set for Ultimate Renewal",
+    "images": "https://m.media-amazon.com/images/I/71I1LFea2-L._SL1500_.jpg",
     "description": "Revitalize your hair with the Virtue Recovery Set. Hydrate and renew damaged strands for soft, lustrous locks—all while keeping your color safe!",
     "type": "article",
     "publishedTime": "2025-12-26T13:09:15.960Z",

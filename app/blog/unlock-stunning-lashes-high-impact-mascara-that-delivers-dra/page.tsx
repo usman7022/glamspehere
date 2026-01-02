@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Elevate your lash game with Clinique's High Impact Mascara! Experience dramatic length and volume while keeping your sensitive eyes safe—travel size included!",
   "openGraph": {
     "title": "Unlock Stunning Lashes: High Impact Mascara That Delivers Drama",
+    "images": "https://m.media-amazon.com/images/I/71XloDb-ssL._SL1500_.jpg",
     "description": "Elevate your lash game with Clinique's High Impact Mascara! Experience dramatic length and volume while keeping your sensitive eyes safe—travel size included!",
     "type": "article",
     "publishedTime": "2025-12-24T03:01:49.164Z",

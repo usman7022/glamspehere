@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "PrimeLash Mascara: Unlock the Secret to Effortlessly Bold Lashes!",
   "openGraph": {
     "title": "PrimeLash Mascara: Unlock the Secret to Effortlessly Bold Lashes!",
+    "images": "https://m.media-amazon.com/images/I/51rjD1DyfpL._SL1200_.jpg",
     "description": "PrimeLash Mascara: Unlock the Secret to Effortlessly Bold Lashes!",
     "type": "article",
     "publishedTime": "2025-12-23T14:02:04.682Z",

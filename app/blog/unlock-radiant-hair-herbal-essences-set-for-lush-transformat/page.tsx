@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock Radiant Hair: Herbal Essences Set for Lush Transformation!",
   "openGraph": {
     "title": "Unlock Radiant Hair: Herbal Essences Set for Lush Transformation!",
+    "images": "https://m.media-amazon.com/images/I/61jCPnzmPjL._SL1000_.jpg",
     "description": "Unlock Radiant Hair: Herbal Essences Set for Lush Transformation!",
     "type": "article",
     "publishedTime": "2025-12-22T02:14:32.404Z",

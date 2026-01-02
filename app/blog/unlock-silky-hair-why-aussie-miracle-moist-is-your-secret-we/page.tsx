@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock Silky Hair: Why Aussie Miracle Moist is Your Secret Weapon",
   "openGraph": {
     "title": "Unlock Silky Hair: Why Aussie Miracle Moist is Your Secret Weapon",
+    "images": "https://m.media-amazon.com/images/I/61a7IgvXWcL._SL1000_.jpg",
     "description": "Unlock Silky Hair: Why Aussie Miracle Moist is Your Secret Weapon",
     "type": "article",
     "publishedTime": "2025-12-23T09:01:55.042Z",

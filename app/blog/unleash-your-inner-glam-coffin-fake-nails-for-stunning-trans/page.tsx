@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Elevate your style instantly with coffin fake nails! Enjoy stunning pink-white ombre designs and a touch of glitter for eye-catching transformations.",
   "openGraph": {
     "title": "Unleash Your Inner Glam: Coffin Fake Nails for Stunning Transformations",
+    "images": "https://m.media-amazon.com/images/I/51wAQHdFG-L._SL1001_.jpg",
     "description": "Elevate your style instantly with coffin fake nails! Enjoy stunning pink-white ombre designs and a touch of glitter for eye-catching transformations.",
     "type": "article",
     "publishedTime": "2025-12-24T04:03:35.751Z",

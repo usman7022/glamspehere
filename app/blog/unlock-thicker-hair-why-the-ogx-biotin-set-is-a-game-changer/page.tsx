@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unlock Thicker Hair: Why the OGX Biotin Set is a Game Changer",
   "openGraph": {
     "title": "Unlock Thicker Hair: Why the OGX Biotin Set is a Game Changer",
+    "images": "https://m.media-amazon.com/images/I/81LB7JZzqLL._SL1500_.jpg",
     "description": "Unlock Thicker Hair: Why the OGX Biotin Set is a Game Changer",
     "type": "article",
     "publishedTime": "2025-12-22T03:17:13.690Z",

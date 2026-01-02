@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   "openGraph": {
     "title": "\"UNA GELLA Almond Nail Tips Review: 216pcs Medium Press-On Perfection\"",
     "description": "\"UNA GELLA Almond Nail Tips Review: 216pcs Medium Press-On Perfection\"",
+     "images": "https://m.media-amazon.com/images/I/81JOeBfjTOL._SY550_.jpg",
     "type": "article",
     "publishedTime": "2025-12-22T00:59:04.762Z",
     "authors": [

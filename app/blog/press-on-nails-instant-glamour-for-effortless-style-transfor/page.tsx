@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Press On Nails: Instant Glamour for Effortless Style Transformations",
   "openGraph": {
     "title": "Press On Nails: Instant Glamour for Effortless Style Transformations",
+    "images": "https://m.media-amazon.com/images/I/61hdJrNefqL._SL1500_.jpg",
     "description": "Press On Nails: Instant Glamour for Effortless Style Transformations",
     "type": "article",
     "publishedTime": "2025-12-22T15:01:59.699Z",

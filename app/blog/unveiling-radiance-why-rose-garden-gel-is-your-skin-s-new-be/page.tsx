@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unveiling Radiance: Why Rose Garden Gel is Your Skin's New Best Friend",
   "openGraph": {
     "title": "Unveiling Radiance: Why Rose Garden Gel is Your Skin's New Best Friend",
+    "images": "https://m.media-amazon.com/images/I/71PF+XUX+UL._SL1500_.jpg",
     "description": "Unveiling Radiance: Why Rose Garden Gel is Your Skin's New Best Friend",
     "type": "article",
     "publishedTime": "2025-12-23T04:01:46.855Z",

@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Achieve stunning salon-quality manicures at home with glossy press-on nails! Discover the perfect almond ombre design for effortless daily elegance.",
   "openGraph": {
     "title": "Press on Nails: The Secret to Salon-Quality Manicures at Home",
+    "images": "https://m.media-amazon.com/images/I/618f6nvubeL._SX425_.jpg",
     "description": "Achieve stunning salon-quality manicures at home with glossy press-on nails! Discover the perfect almond ombre design for effortless daily elegance.",
     "type": "article",
     "publishedTime": "2025-12-24T15:03:54.935Z",

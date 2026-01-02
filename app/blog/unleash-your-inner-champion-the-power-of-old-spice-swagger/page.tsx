@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   "description": "Unleash Your Inner Champion: The Power of Old Spice Swagger",
   "openGraph": {
     "title": "Unleash Your Inner Champion: The Power of Old Spice Swagger",
+    "images": "https://m.media-amazon.com/images/I/71oVrg94nnL._SL1000_.jpg",
     "description": "Unleash Your Inner Champion: The Power of Old Spice Swagger",
     "type": "article",
     "publishedTime": "2025-12-22T23:02:10.376Z",
