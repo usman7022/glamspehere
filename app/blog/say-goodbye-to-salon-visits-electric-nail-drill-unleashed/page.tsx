@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Say Goodbye to Salon Visits: Electric Nail Drill Unleashed!",    "images": "https://m.media-amazon.com/images/I/71AX6Ib2rmL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Say Goodbye to Salon Visits: Electric Nail Drill Unleashed!",    "images": "https://m.media-amazon.com/images/I/71AX6Ib2rmL._SL1500_.jpg",
     "description": "Unleash salon-quality nails at home with our electric nail drill kit! Enjoy low noise and precision for perfect acrylics, gel, and polished perfection."
   }
 }

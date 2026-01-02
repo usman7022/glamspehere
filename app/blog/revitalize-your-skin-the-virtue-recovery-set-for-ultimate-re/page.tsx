@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Revitalize Your Skin: The Virtue Recovery Set for Ultimate Renewal",    "images": "https://m.media-amazon.com/images/I/71I1LFea2-L._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Revitalize Your Skin: The Virtue Recovery Set for Ultimate Renewal",    "images": "https://m.media-amazon.com/images/I/71I1LFea2-L._SL1500_.jpg",
     "description": "Revitalize your hair with the Virtue Recovery Set. Hydrate and renew damaged strands for soft, lustrous locks—all while keeping your color safe!"
   }
 }

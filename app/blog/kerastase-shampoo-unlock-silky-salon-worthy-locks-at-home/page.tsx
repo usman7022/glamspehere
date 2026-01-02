@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Kerastase Shampoo: Unlock Silky, Salon-Worthy Locks at Home!",    "images": "https://m.media-amazon.com/images/I/4123gBlWe+L.jpg",
+  "twitter": {    "card": "summary",    "title": "Kerastase Shampoo: Unlock Silky, Salon-Worthy Locks at Home!",    "images": "https://m.media-amazon.com/images/I/4123gBlWe+L.jpg",
     "description": "Revitalize damaged hair with Kerastase's sulfate-free shampoo! Unlock silky, salon-worthy locks while strengthening and smoothing every strand at home."
   }
 }

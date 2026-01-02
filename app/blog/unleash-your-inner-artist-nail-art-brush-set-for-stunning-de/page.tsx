@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Unleash Your Inner Artist: Nail Art Brush Set for Stunning Designs",    "images": "https://m.media-amazon.com/images/I/81Ca4T6Uh9L._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unleash Your Inner Artist: Nail Art Brush Set for Stunning Designs",    "images": "https://m.media-amazon.com/images/I/81Ca4T6Uh9L._SL1500_.jpg",
     "description": "Unleash Your Inner Artist: Nail Art Brush Set for Stunning Designs"
   }
 }

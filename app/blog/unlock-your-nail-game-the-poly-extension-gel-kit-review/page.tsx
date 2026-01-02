@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Unlock Your Nail Game: The Poly Extension Gel Kit Review",    "images": "https://m.media-amazon.com/images/I/71Q52dIT4IL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Your Nail Game: The Poly Extension Gel Kit Review",    "images": "https://m.media-amazon.com/images/I/71Q52dIT4IL._SL1500_.jpg",
     "description": "Unlock Your Nail Game: The Poly Extension Gel Kit Review"
   }
 }

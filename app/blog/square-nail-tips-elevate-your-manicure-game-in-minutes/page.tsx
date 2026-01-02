@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Square Nail Tips: Elevate Your Manicure Game in Minutes!",    "images": "https://m.media-amazon.com/images/I/71hpM5VAPZL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Square Nail Tips: Elevate Your Manicure Game in Minutes!",    "images": "https://m.media-amazon.com/images/I/71hpM5VAPZL._SL1500_.jpg",
     "description": "Elevate your nail art with AddFavor's 600 pcs square tips—achieve stunning, salon-quality manicures at home and unleash your creativity instantly!"
   }
 }

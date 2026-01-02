@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Unlock Luscious Locks: A Deep Dive into the Hair Growth Set",    "images": "https://m.media-amazon.com/images/I/71UKhp9Lf+L.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Luscious Locks: A Deep Dive into the Hair Growth Set",    "images": "https://m.media-amazon.com/images/I/71UKhp9Lf+L.jpg",
     "description": "Revitalize your hair with our Rosemary & Biotin Shampoo and Conditioner set. Boost thickness, strengthen strands, and nourish your scalp for luscious locks!"
   }
 }

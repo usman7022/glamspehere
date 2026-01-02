@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Unlock Your Hair's Potential: Cantu Shampoo for Luxurious Locks",    "images": "https://m.media-amazon.com/images/I/81VXFMkfg-L.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Your Hair's Potential: Cantu Shampoo for Luxurious Locks",    "images": "https://m.media-amazon.com/images/I/81VXFMkfg-L.jpg",
     "description": "Revitalize your natural hair with Cantu Shampoo & Conditioner. Experience supreme moisture and bounce for luxurious, healthy locks every day!"
   }
 }

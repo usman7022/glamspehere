@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Kur Gel Genius: Unlock Your Best Skin with Effortless Hydration!",    "images": "https://m.media-amazon.com/images/I/71g0fUmWSUL.jpg",
+  "twitter": {    "card": "summary",    "title": "Kur Gel Genius: Unlock Your Best Skin with Effortless Hydration!",    "images": "https://m.media-amazon.com/images/I/71g0fUmWSUL.jpg",
     "description": "Unlock radiant skin effortlessly with LONDONTOWN's Kur Gel Genius! Experience superior hydration and a flawless finish in just one simple step."
   }
 }

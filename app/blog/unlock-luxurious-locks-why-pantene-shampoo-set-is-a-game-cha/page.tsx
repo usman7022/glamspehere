@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Unlock Luxurious Locks: Why Pantene Shampoo Set is a Game-Changer",    "images": "https://m.media-amazon.com/images/I/71yWq5HzAhL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Luxurious Locks: Why Pantene Shampoo Set is a Game-Changer",    "images": "https://m.media-amazon.com/images/I/71yWq5HzAhL._SL1500_.jpg",
     "description": "Unlock Luxurious Locks: Why Pantene Shampoo Set is a Game-Changer"
   }
 }

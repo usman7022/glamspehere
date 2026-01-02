@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Unveiling Radiance: Why Rose Garden Gel is Your Skin's New Best Friend",    "images": "https://m.media-amazon.com/images/I/71PF+XUX+UL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unveiling Radiance: Why Rose Garden Gel is Your Skin's New Best Friend",    "images": "https://m.media-amazon.com/images/I/71PF+XUX+UL._SL1500_.jpg",
     "description": "Unveiling Radiance: Why Rose Garden Gel is Your Skin's New Best Friend"
   }
 }

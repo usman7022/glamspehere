@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Unlock Your Eye Game: Wonderskin Eyeliner for Flawless Flicks",    "images": "https://m.media-amazon.com/images/I/81yDA3hbyyL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Your Eye Game: Wonderskin Eyeliner for Flawless Flicks",    "images": "https://m.media-amazon.com/images/I/81yDA3hbyyL._SL1500_.jpg",
     "description": "Achieve flawless eyeliner flicks with Wonderskin's 1440 Longwear Deep Black Eyeliner. Waterproof, sharpenable, and smudge-proof for all-day perfection!"
   }
 }

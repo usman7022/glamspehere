@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary_large_image",
+  "twitter": {    "card": "summary",
     "title": "\"bareMinerals Original Mineral Veil: The Ultimate Talc-Free Setting Powder\"",
     "images": "https://m.media-amazon.com/images/I/816EAJXGUNL._SL1500_.jpg",
     "description": "\"bareMinerals Original Mineral Veil: The Ultimate Talc-Free Setting Powder\""

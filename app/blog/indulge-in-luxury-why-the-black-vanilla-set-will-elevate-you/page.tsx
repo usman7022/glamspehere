@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Indulge in Luxury: Why the Black Vanilla Set Will Elevate Your Routine",    "images": "https://m.media-amazon.com/images/I/81XgrCzSZmL.jpg",
+  "twitter": {    "card": "summary",    "title": "Indulge in Luxury: Why the Black Vanilla Set Will Elevate Your Routine",    "images": "https://m.media-amazon.com/images/I/81XgrCzSZmL.jpg",
     "description": "Elevate your hair care with Carol's Daughter Black Vanilla Set. Experience hydration and repair for dry, damaged curls—luxury for your daily routine!"
   }
 }

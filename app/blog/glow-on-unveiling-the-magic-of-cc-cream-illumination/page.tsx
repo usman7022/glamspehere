@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     ]
   },
   "twitter": {
-    "card": "summary_large_image",
+    "card": "summary",
     "title": post.title,
     "images": imageUrl,
     "description": post.excerpt

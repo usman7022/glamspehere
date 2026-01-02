@@ -16,7 +16,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary_large_image",
+  "twitter": {    "card": "summary",
     "title": "\"Estée Lauder Futurist Hydra Rescue Foundation: 12-Hour Glow Review\"",
      "images": "https://m.media-amazon.com/images/I/61DMdkEyLpL._SX425_.jpg",
     "description": "Final Verdict."

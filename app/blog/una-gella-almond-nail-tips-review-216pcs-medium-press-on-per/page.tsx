@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {    "card": "summary_large_image",
+  "twitter": {    "card": "summary",
     "title": "\"UNA GELLA Almond Nail Tips Review: 216pcs Medium Press-On Perfection\"",
     "images": "https://m.media-amazon.com/images/I/81JOeBfjTOL._SY550_.jpg",
     "description": "\"UNA GELLA Almond Nail Tips Review: 216pcs Medium Press-On Perfection\""

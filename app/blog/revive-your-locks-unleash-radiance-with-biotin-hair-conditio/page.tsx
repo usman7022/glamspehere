@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Revive Your Locks: Unleash Radiance with Biotin Hair Conditioner",    "images": "https://m.media-amazon.com/images/I/71JrMXLsDPL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Revive Your Locks: Unleash Radiance with Biotin Hair Conditioner",    "images": "https://m.media-amazon.com/images/I/71JrMXLsDPL._SL1500_.jpg",
     "description": "Revitalize your hair with iRESTORE Biotin Conditioner! Boost growth and volume while nourishing damaged locks with ginseng and argan oil. Embrace radiant hair!"
   }
 }

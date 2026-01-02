@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Unlock Your Inner Artist: The Eye Shadow Set That Transforms Your Look",    "images": "https://m.media-amazon.com/images/I/71JjfZLvkIL._SL1000_.jpg",
+  "twitter": {    "card": "summary",    "title": "Unlock Your Inner Artist: The Eye Shadow Set That Transforms Your Look",    "images": "https://m.media-amazon.com/images/I/71JjfZLvkIL._SL1000_.jpg",
     "description": "Unleash your creativity with the 8Pcs Cream Eye Shadow Set! Effortlessly elevate your makeup game with stunning shades designed for timeless beauty."
   }
 }

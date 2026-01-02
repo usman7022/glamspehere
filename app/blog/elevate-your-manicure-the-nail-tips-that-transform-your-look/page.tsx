@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {    "card": "summary_large_image",    "title": "Elevate Your Manicure: The Nail Tips That Transform Your Look!",    "images": "https://m.media-amazon.com/images/I/71UAZTjBEmL._SL1500_.jpg",
+  "twitter": {    "card": "summary",    "title": "Elevate Your Manicure: The Nail Tips That Transform Your Look!",    "images": "https://m.media-amazon.com/images/I/71UAZTjBEmL._SL1500_.jpg",
     "description": "Elevate Your Manicure: The Nail Tips That Transform Your Look!"
   }
 }
