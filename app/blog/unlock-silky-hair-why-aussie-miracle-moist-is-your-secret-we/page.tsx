@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Unlock Silky Hair: Why Aussie Miracle Moist is Your Secret Weapon",
-     "images": "https://m.media-amazon.com/images/I/61a7IgvXWcL._SL1000_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Unlock Silky Hair: Why Aussie Miracle Moist is Your Secret Weapon",    "images": "https://m.media-amazon.com/images/I/61a7IgvXWcL._SL1000_.jpg",
     "description": "Unlock Silky Hair: Why Aussie Miracle Moist is Your Secret Weapon"
   }
 }

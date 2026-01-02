@@ -15,10 +15,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Bright Eyes Ahead: Unveiling the Magic of Luminous Eye Corrector",
-    "images": "https://m.media-amazon.com/images/I/61f+2yILldL._SL1500_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Bright Eyes Ahead: Unveiling the Magic of Luminous Eye Corrector",    "images": "https://m.media-amazon.com/images/I/61f+2yILldL._SL1500_.jpg",
     "description": "Brighten your eyes and banish dark circles with DRMTLGY’s Luminous Eye Corrector. Fight aging while hydrating with this tinted, SPF 41 solution!"
   }
 }

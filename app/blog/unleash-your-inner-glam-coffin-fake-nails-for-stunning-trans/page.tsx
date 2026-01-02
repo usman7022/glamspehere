@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Unleash Your Inner Glam: Coffin Fake Nails for Stunning Transformations",
-     "images": "https://m.media-amazon.com/images/I/51wAQHdFG-L._SL1001_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Unleash Your Inner Glam: Coffin Fake Nails for Stunning Transformations",    "images": "https://m.media-amazon.com/images/I/51wAQHdFG-L._SL1001_.jpg",
     "description": "Elevate your style instantly with coffin fake nails! Enjoy stunning pink-white ombre designs and a touch of glitter for eye-catching transformations."
   }
 }

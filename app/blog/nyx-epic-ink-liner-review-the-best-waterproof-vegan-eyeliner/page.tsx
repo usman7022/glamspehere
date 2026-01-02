@@ -16,8 +16,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {
-    "card": "summary",
+  "twitter": {    "card": "summary_large_image",
     "title": "\"NYX Epic Ink Liner Review: The Best Waterproof Vegan Eyeliner\"",
     "images": "https://m.media-amazon.com/images/I/617F0F8N5UL._SL1500_.jpg",
     "description": "Final Verdict."

@@ -15,10 +15,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Dual-Ended Eyeshadow: Unlock Double the Glam with One Product!",
-    "images": "https://m.media-amazon.com/images/I/81wRX97Rx2L._SL1500_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Dual-Ended Eyeshadow: Unlock Double the Glam with One Product!",    "images": "https://m.media-amazon.com/images/I/81wRX97Rx2L._SL1500_.jpg",
     "description": "Unlock vibrant, long-lasting eye looks with LANGMANNI’s dual-ended eyeshadow sticks! Enjoy silky smooth application and versatile matte/shimmer finishes all ..."
   }
 }

@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Press On Nails: Instant Glam for Effortless, Stunning Manicures!",
-    "images": "https://m.media-amazon.com/images/I/81M-JMfrD1L._SL1500_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Press On Nails: Instant Glam for Effortless, Stunning Manicures!",    "images": "https://m.media-amazon.com/images/I/81M-JMfrD1L._SL1500_.jpg",
     "description": "Press On Nails: Instant Glam for Effortless, Stunning Manicures!"
   }
 }

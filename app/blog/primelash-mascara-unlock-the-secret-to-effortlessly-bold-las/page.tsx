@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "PrimeLash Mascara: Unlock the Secret to Effortlessly Bold Lashes!",
-    "images": "https://m.media-amazon.com/images/I/51rjD1DyfpL._SL1200_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "PrimeLash Mascara: Unlock the Secret to Effortlessly Bold Lashes!",    "images": "https://m.media-amazon.com/images/I/51rjD1DyfpL._SL1200_.jpg",
     "description": "PrimeLash Mascara: Unlock the Secret to Effortlessly Bold Lashes!"
   }
 }

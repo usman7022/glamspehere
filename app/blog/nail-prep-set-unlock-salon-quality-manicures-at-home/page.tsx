@@ -16,8 +16,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {
-    "card": "summary",
+  "twitter": {    "card": "summary_large_image",
     "title": "\"Nail Prep Set: Unlock Salon-Quality Manicures at Home!\"",
     "images": "https://m.media-amazon.com/images/I/71LMqzpQ-4L._SL1500_.jpg",
     "description": "\"Nail Prep Set: Unlock Salon-Quality Manicures at Home!\""

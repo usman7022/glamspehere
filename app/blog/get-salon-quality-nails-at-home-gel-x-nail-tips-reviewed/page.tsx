@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Get Salon-Quality Nails at Home: Gel-X Nail Tips Reviewed",
-    "images": "https://m.media-amazon.com/images/I/61WlYGWHyvL.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Get Salon-Quality Nails at Home: Gel-X Nail Tips Reviewed",    "images": "https://m.media-amazon.com/images/I/61WlYGWHyvL.jpg",
     "description": "Achieve stunning salon-quality nails at home with Apres Gel-X® tips. Explore 500 premium almond options for a flawless, durable manicure today!"
   }
 }

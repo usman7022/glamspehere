@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Unlock Salon-Quality Nails at Home: Gel Nail Strips Review",
-    "images": "https://m.media-amazon.com/images/I/61yIJ9hBP-L._SL1500_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Unlock Salon-Quality Nails at Home: Gel Nail Strips Review",    "images": "https://m.media-amazon.com/images/I/61yIJ9hBP-L._SL1500_.jpg",
     "description": "Elevate your nail game with Burgundy Red gel nail strips! Achieve salon-quality results at home—quick, easy, and long-lasting with UV light."
   }
 }

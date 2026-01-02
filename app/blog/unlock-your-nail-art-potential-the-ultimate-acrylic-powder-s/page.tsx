@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Unlock Your Nail Art Potential: The Ultimate Acrylic Powder Set Review",
-     "images": "https://m.media-amazon.com/images/I/71y1pB1OUhL._SL1500_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Unlock Your Nail Art Potential: The Ultimate Acrylic Powder Set Review",    "images": "https://m.media-amazon.com/images/I/71y1pB1OUhL._SL1500_.jpg",
     "description": "Unlock Your Nail Art Potential: The Ultimate Acrylic Powder Set Review"
   }
 }

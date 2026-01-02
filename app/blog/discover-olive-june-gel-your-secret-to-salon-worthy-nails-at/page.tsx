@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Discover Olive & June Gel: Your Secret to Salon-Worthy Nails at Home!",
-    "images": "https://m.media-amazon.com/images/I/51v7UHmGF8L.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Discover Olive & June Gel: Your Secret to Salon-Worthy Nails at Home!",    "images": "https://m.media-amazon.com/images/I/51v7UHmGF8L.jpg",
     "description": "Achieve stunning salon-quality nails at home with Olive & June Gel. Enjoy up to 21 days of vibrant wear and damage-free removal. Get your dark ruby today!"
   }
 }

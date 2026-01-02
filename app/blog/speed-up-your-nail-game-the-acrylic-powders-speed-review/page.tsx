@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Speed Up Your Nail Game: The Acrylic Powders Speed Review",
-    "images": "https://m.media-amazon.com/images/I/419-wp13UrL._SL1280_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Speed Up Your Nail Game: The Acrylic Powders Speed Review",    "images": "https://m.media-amazon.com/images/I/419-wp13UrL._SL1280_.jpg",
     "description": "Speed Up Your Nail Game: The Acrylic Powders Speed Review"
   }
 }

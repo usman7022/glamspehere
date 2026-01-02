@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Unlock Your Eye Game: The Palette That Elevates Every Look",
-     "images": "https://m.media-amazon.com/images/I/61XyxReT2uL._SX425_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Unlock Your Eye Game: The Palette That Elevates Every Look",    "images": "https://m.media-amazon.com/images/I/61XyxReT2uL._SX425_.jpg",
     "description": "Unlock Your Eye Game: The Palette That Elevates Every Look"
   }
 }

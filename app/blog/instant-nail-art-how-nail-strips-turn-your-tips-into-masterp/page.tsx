@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Instant Nail Art: How Nail Strips Turn Your Tips into Masterpieces",
-     "images": "https://m.media-amazon.com/images/I/61-4iDzr0IL._SL1500_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Instant Nail Art: How Nail Strips Turn Your Tips into Masterpieces",    "images": "https://m.media-amazon.com/images/I/61-4iDzr0IL._SL1500_.jpg",
     "description": "Instant Nail Art: How Nail Strips Turn Your Tips into Masterpieces"
   }
 }

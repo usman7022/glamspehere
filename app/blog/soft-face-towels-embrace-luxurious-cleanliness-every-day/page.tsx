@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Soft Face Towels: Embrace Luxurious Cleanliness Every Day!",
-    "images": "https://m.media-amazon.com/images/I/71vgil0luIL.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Soft Face Towels: Embrace Luxurious Cleanliness Every Day!",    "images": "https://m.media-amazon.com/images/I/71vgil0luIL.jpg",
     "description": "Experience the softness of Winner Soft Face Towels! Perfect for sensitive skin, these 100% biobased, unscented wipes offer luxurious cleanliness daily."
   }
 }

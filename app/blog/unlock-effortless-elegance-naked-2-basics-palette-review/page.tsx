@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Unlock Effortless Elegance: Naked 2 Basics Palette Review",
-    "images": "https://m.media-amazon.com/images/I/6100m-v7caL._SL1500_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Unlock Effortless Elegance: Naked 2 Basics Palette Review",    "images": "https://m.media-amazon.com/images/I/6100m-v7caL._SL1500_.jpg",
     "description": "Elevate your makeup game with Urban Decay's Naked 2 Basics Palette. Effortlessly blend cool-tone nudes for stunning eyes, contours, and brows on-the-go!"
   }
 }

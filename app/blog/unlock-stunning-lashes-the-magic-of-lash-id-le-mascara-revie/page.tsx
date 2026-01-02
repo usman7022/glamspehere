@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Unlock Stunning Lashes: The Magic of Lash Idôle Mascara Review",
-     "images": "https://m.media-amazon.com/images/I/61jh-r2MLkL._SL1500_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Unlock Stunning Lashes: The Magic of Lash Idôle Mascara Review",    "images": "https://m.media-amazon.com/images/I/61jh-r2MLkL._SL1500_.jpg",
     "description": "Unleash captivating volume and lift with Lancôme's Lash Idôle Mascara. Experience smudge-proof beauty that lasts up to 24 hours for unforgettable lashes!"
   }
 }

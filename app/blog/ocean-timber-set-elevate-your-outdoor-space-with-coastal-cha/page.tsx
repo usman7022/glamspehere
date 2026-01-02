@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Ocean Timber Set: Elevate Your Outdoor Space with Coastal Charm",
-    "images": "https://m.media-amazon.com/images/I/61VmQbmfD5L._SL1500_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Ocean Timber Set: Elevate Your Outdoor Space with Coastal Charm",    "images": "https://m.media-amazon.com/images/I/61VmQbmfD5L._SL1500_.jpg",
     "description": "Ocean Timber Set: Elevate Your Outdoor Space with Coastal Charm"
   }
 }

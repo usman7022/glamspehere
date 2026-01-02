@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Unlock Luxurious Locks: The CeraVe Shampoo Set You'll Love",
-     "images": "https://m.media-amazon.com/images/I/71XDJBp40EL.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Unlock Luxurious Locks: The CeraVe Shampoo Set You'll Love",    "images": "https://m.media-amazon.com/images/I/71XDJBp40EL.jpg",
     "description": "Unlock soft, healthy locks with CeraVe's Gentle Shampoo and Conditioner Set. Infused with ceramides and hyaluronic acid for all hair types—hydrate today!"
   }
 }

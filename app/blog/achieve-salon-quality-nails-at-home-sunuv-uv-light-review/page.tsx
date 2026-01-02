@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Achieve Salon-Quality Nails at Home: SUNUV UV Light Review",
-    "images": "https://m.media-amazon.com/images/I/51inODC-+vL.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Achieve Salon-Quality Nails at Home: SUNUV UV Light Review",    "images": "https://m.media-amazon.com/images/I/51inODC-+vL.jpg",
     "description": "Elevate your at-home manicure with the SUNUV UV Light! Achieve flawless, salon-quality gel nails effortlessly using its smart auto sensor and timer settings."
   }
 }

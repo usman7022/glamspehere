@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Sophia Ellis"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Unlock Radiant Skin: The Coconut Milk Set You Can’t Live Without!",
-    "images": "https://m.media-amazon.com/images/I/71kkdbcV86L.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Unlock Radiant Skin: The Coconut Milk Set You Can’t Live Without!",    "images": "https://m.media-amazon.com/images/I/71kkdbcV86L.jpg",
     "description": "Unlock luminous skin with the Purezero Coconut Milk Shampoo & Conditioner. Hydrate, shine, and combat frizz with this vegan, cruelty-free duo!"
   }
 }

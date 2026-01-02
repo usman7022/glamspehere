@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Unlock Tropical Radiance: The Coconut Shampoo Set You Can't Miss",
-     "images": "https://m.media-amazon.com/images/I/71wIyx95zvL._SL1500_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Unlock Tropical Radiance: The Coconut Shampoo Set You Can't Miss",    "images": "https://m.media-amazon.com/images/I/71wIyx95zvL._SL1500_.jpg",
     "description": "Revitalize your hair with California Naturals Coconut Shampoo Set! Experience vibrant, natural shine while enjoying a sulfate-free, vegan cleanse for all hai..."
   }
 }

@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Unlock Lush Lashes: The Eyelash Conditioner That Changes Everything!",
-      "images": "https://m.media-amazon.com/images/I/61qM+be5q8L._SL1500_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Unlock Lush Lashes: The Eyelash Conditioner That Changes Everything!",    "images": "https://m.media-amazon.com/images/I/61qM+be5q8L._SL1500_.jpg",
     "description": "Unlock your lash potential with RevitaLash Advanced! Experience fuller, healthier lashes with this physician-developed, cruelty-free conditioner in just weeks."
   }
 }

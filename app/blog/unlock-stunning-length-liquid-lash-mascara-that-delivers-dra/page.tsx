@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Unlock Stunning Length: Liquid Lash Mascara That Delivers Drama!",
-     "images": "https://m.media-amazon.com/images/I/61XEyq3FZ3L._SL1500_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Unlock Stunning Length: Liquid Lash Mascara That Delivers Drama!",    "images": "https://m.media-amazon.com/images/I/61XEyq3FZ3L._SL1500_.jpg",
     "description": "Experience dramatic length and volume with Thrive Causemetics Liquid Lash Mascara. Smudge-proof, clump-free, and vegan—your lashes will thank you!"
   }
 }

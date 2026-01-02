@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Medium Almond Tips: Elevate Your Nail Game with Effortless Elegance",
-     "images": "https://m.media-amazon.com/images/I/716xj-gDBPL._SX425_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Medium Almond Tips: Elevate Your Nail Game with Effortless Elegance",    "images": "https://m.media-amazon.com/images/I/716xj-gDBPL._SX425_.jpg",
     "description": "Medium Almond Tips: Elevate Your Nail Game with Effortless Elegance"
   }
 }

@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Jasper Lee"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Stila Liquid Liner: Unleash Your Eye Artistry with Precision Perfection",
-    "images": "https://m.media-amazon.com/images/I/516q20ROi0L._SL1500_.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Stila Liquid Liner: Unleash Your Eye Artistry with Precision Perfection",    "images": "https://m.media-amazon.com/images/I/516q20ROi0L._SL1500_.jpg",
     "description": "Stila Liquid Liner: Unleash Your Eye Artistry with Precision Perfection"
   }
 }

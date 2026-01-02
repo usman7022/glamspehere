@@ -17,10 +17,7 @@ export const metadata: Metadata = {
       "Amara Johnson"
     ]
   },
-  "twitter": {
-    "card": "summary",
-    "title": "Glow Up Instantly: Unveiling the Magic of Bronzing Drops",
-    "images": "https://m.media-amazon.com/images/I/612LnF4ktDL.jpg",
+  "twitter": {    "card": "summary_large_image",    "title": "Glow Up Instantly: Unveiling the Magic of Bronzing Drops",    "images": "https://m.media-amazon.com/images/I/612LnF4ktDL.jpg",
     "description": "Achieve a radiant, sun-kissed glow instantly with e.l.f. SKIN Bronzing Drops! Infused with vitamin E for a healthy, bronzed complexion—vegan & cruelty-free."
   }
 }
